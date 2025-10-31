@@ -43,5 +43,48 @@ This project is built using **Python (Flask)** for backend, **HTML/CSS** for fro
 ---
 
 ## 📂 Project Structure
+Car-Recommendation-System/
+│
+├── static/
+│ ├── style.css # Styling for the frontend
+│
+├── templates/
+│ ├── index.html # Homepage with user form
+│ ├── results.html # Recommendation result page
+│
+├── model/
+│ ├── init.py # Model initialization
+│ ├── recommendation.py # ML model and logic
+│
+├── app.py # Flask main file
+├── cleaned_car_dataset.csv
+├── README.md
+└── requirements.txt
+
+
+
+---
+
+## 🧠 Machine Learning Overview
+
+This is a **content-based filtering** recommendation system.  
+The model uses **K-Nearest Neighbors (KNN)** to find cars that are most similar to the user’s preferences using **cosine similarity**.
+
+### Preprocessing:
+- **Categorical features** (Body_Type, Fuel_Type, Transmission) → OneHotEncoded  
+- **Numerical features** (Price, Seats, Displacement) → Scaled using MinMaxScaler  
+
+### Model:
+- Built using `NearestNeighbors(n_neighbors=7, metric="cosine")`  
+- Finds similar cars by comparing feature vectors in multidimensional space.
+
+---
+
+## 🖥️ How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Car-Recommendation-System.git
+   cd Car-Recommendation-System
 
 
