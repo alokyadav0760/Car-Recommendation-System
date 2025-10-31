@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoMatch | Find Your Perfect Car</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="nav-left">
+            <h2> AutoMatch</h2>
+        </div>
+        <div class="nav-right">
+            <p>Welcome, User </p>
+        </div>
+    </nav>
+
+    <div class="hero-section">
+        <div class="overlay"></div>
+        <div class="form-container">
+            <h1>Find Your Dream Car</h1>
+            <p>Enter your preferences and let us match the perfect car for you</p>
+
+            <form action="/recommend" method="POST" class="form-grid">
+
+                <div>
+                    <label>Min Budget (₹)</label>
+                    <input type="number" name="budget_min" placeholder="500000">
+                </div>
+
+                <div>
+                    <label>Max Budget (₹)</label>
+                    <input type="number" name="budget_max" placeholder="2500000">
+                </div>
+
+                <div>
+                    <label>Body Type</label>
+                    <select name="body">
+                        <option value="">Any</option>
+                        <option value="SUV">SUV</option>
+                        <option value="Sedan">Sedan</option>
+                        <option value="Hatchback">Hatchback</option>
+                        <option value="MUV">MUV</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label>Fuel Type</label>
+                    <select name="fuel">
+                        <option value="">Any</option>
+                        <option value="Petrol">Petrol</option>
+                        <option value="Diesel">Diesel</option>
+                        <option value="CNG">CNG</option>
+                        <option value="Electric">Electric</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label>Transmission</label>
+                    <select name="transmission">
+                        <option value="">Any</option>
+                        <option value="Manual">Manual</option>
+                        <option value="Automatic">Automatic</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label>Seating Capacity</label>
+                    <select name="seats">
+                        <option value="">Any</option>
+                        <option value="2">2</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-wide"> Get Recommendations</button>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

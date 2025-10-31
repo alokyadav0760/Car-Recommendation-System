@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Car Recommendations | AutoMatch</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="nav-left">
+            <h2> AutoMatch</h2>
+        </div>
+        <div class="nav-right">
+            <a href="/" class="btn-nav"> Home</a>
+        </div>
+    </nav>
+
+    <div class="results-container">
+        <h1>Top Car Matches for You </h1>
+
+        {% if cars %}
+        <div class="cards-container">
+            {% for car in cars %}
+            <div class="car-card">
+                <h2>{{ car.Make }} {{ car.Model }}</h2>
+                <p><strong>Price:</strong> ₹{{ "{:,.0f}".format(car["Ex-Showroom_Price"]) }}</p>
+                <p><strong>Body:</strong> {{ car.Body_Type }}</p>
+                <p><strong>Fuel:</strong> {{ car.Fuel_Type }}</p>
+                <p><strong>Transmission:</strong> {{ car.Type }}</p>
+                <p><strong>Seats:</strong> {{ car.Seating_Capacity }}</p>
+                <p><strong>Engine:</strong> {{ car.Displacement }} cc</p>
+                <p><strong>Airbags:</strong> {{ car.Number_of_Airbags }}</p>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <p class="no-result">No cars found for your filters </p>
+        {% endif %}
+    </div>
+</body>
+</html>

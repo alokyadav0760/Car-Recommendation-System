@@ -1,0 +1,1277 @@
+Make,Model,Ex-Showroom_Price,Body_Type,Fuel_Type,Type,Seating_Capacity,Displacement,Number_of_Airbags
+Tata,Nano Genx,292667.0,Hatchback,Petrol,Manual,4.0,624.0,2.0
+Tata,Nano Genx,236447.0,Hatchback,Petrol,Manual,4.0,624.0,2.0
+Tata,Nano Genx,296661.0,Hatchback,CNG,Manual,4.0,624.0,2.0
+Tata,Nano Genx,334768.0,Hatchback,Petrol,Automatic,4.0,624.0,2.0
+Tata,Nano Genx,272223.0,Hatchback,Petrol,Manual,4.0,624.0,2.0
+Tata,Nano Genx,314815.0,Hatchback,Petrol,Automatic,4.0,624.0,2.0
+Datsun,Redi-Go,279650.0,Hatchback,Petrol,Manual,5.0,799.0,2.0
+Datsun,Redi-Go,351832.0,Hatchback,Petrol,Manual,5.0,799.0,2.0
+Datsun,Redi-Go,333419.0,Hatchback,Petrol,Manual,5.0,799.0,2.0
+Datsun,Redi-Go,362000.0,Hatchback,Petrol,Manual,5.0,799.0,2.0
+Datsun,Redi-Go,390000.0,Hatchback,Petrol,Manual,5.0,999.0,2.0
+Datsun,Redi-Go,437065.0,Hatchback,Petrol,Automatic,5.0,999.0,2.0
+Renault,Kwid,353290.0,Hatchback,Petrol,Manual,5.0,799.0,1.0
+Renault,Kwid,283290.0,Hatchback,Petrol,Manual,5.0,799.0,1.0
+Renault,Kwid,383290.0,Hatchback,Petrol,Manual,5.0,799.0,1.0
+Renault,Kwid,413290.0,Hatchback,Petrol,Manual,5.0,799.0,1.0
+Renault,Kwid,433290.0,Hatchback,Petrol,Manual,5.0,999.0,1.0
+Renault,Kwid,454490.0,Hatchback,Petrol,Manual,5.0,999.0,1.0
+Renault,Kwid,463290.0,Hatchback,Petrol,Automatic,5.0,999.0,1.0
+Renault,Kwid,484490.0,Hatchback,Petrol,Automatic,5.0,999.0,1.0
+Renault,Kwid,440990.0,Hatchback,Petrol,Manual,5.0,999.0,2.0
+Renault,Kwid,470990.0,Hatchback,Petrol,Automatic,5.0,999.0,2.0
+Renault,Kwid,462190.0,Hatchback,Petrol,Manual,5.0,999.0,2.0
+Renault,Kwid,492190.0,Hatchback,Petrol,Automatic,5.0,999.0,2.0
+Maruti Suzuki,Eeco,352136.0,MPV,Petrol,Manual,5.0,1196.0,1.0
+Maruti Suzuki,Eeco,380573.0,MPV,Petrol,Manual,7.0,1196.0,1.0
+Maruti Suzuki,Eeco,392967.0,MPV,Petrol,Manual,5.0,1196.0,2.0
+Maruti Suzuki,Eeco,466057.0,MPV,CNG,Manual,5.0,1196.0,1.0
+Maruti Suzuki,Eeco,425255.0,MPV,CNG,Manual,5.0,1196.0,1.0
+Maruti Suzuki,Alto K10,377588.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Alto K10,394036.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Alto K10,360843.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Alto K10,407238.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Alto K10,439777.0,Hatchback,CNG,Manual,5.0,998.0,1.0
+Maruti Suzuki,Alto K10,438559.0,Hatchback,Petrol,Automatic,5.0,998.0,1.0
+Datsun,Go,374990.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,468229.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,502492.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,499990.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,469990.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,528464.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,553015.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,594464.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Datsun,Go,618015.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Maruti Suzuki,Celerio Tour,422444.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio Tour,480670.0,Hatchback,CNG,Manual,5.0,998.0,2.0
+Hyundai,Santro,429990.0,Hatchback,Petrol,Manual,5.0,1086.0,1.0
+Hyundai,Santro,503990.0,Hatchback,Petrol,Manual,5.0,1086.0,1.0
+Hyundai,Santro,547990.0,Hatchback,CNG,Manual,5.0,1086.0,1.0
+Hyundai,Santro,530990.0,Hatchback,Petrol,AMT,5.0,1086.0,1.0
+Hyundai,Santro,512990.0,Hatchback,Petrol,Manual,5.0,1086.0,1.0
+Hyundai,Santro,578990.0,Hatchback,CNG,Manual,5.0,1086.0,1.0
+Hyundai,Santro,570990.0,Hatchback,Petrol,AMT,5.0,1086.0,1.0
+Hyundai,Santro,556490.0,Hatchback,Petrol,Manual,5.0,1086.0,2.0
+Tata,Tiago,460000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tiago,520000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tiago,570000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tiago,599000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tiago,610000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tiago,620000.0,Hatchback,Petrol,AMT,5.0,1199.0,2.0
+Tata,Tiago,649000.0,Hatchback,Petrol,AMT,5.0,1199.0,2.0
+Tata,Tiago,660000.0,Hatchback,Petrol,AMT,5.0,1199.0,2.0
+Maruti Suzuki,Celerio X,481074.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio X,475198.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Celerio X,518198.0,Hatchback,Petrol,Automatic,5.0,998.0,1.0
+Maruti Suzuki,Celerio X,524074.0,Hatchback,Petrol,Automatic,5.0,998.0,2.0
+Maruti Suzuki,Celerio X,499734.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Celerio X,540350.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio X,542735.0,Hatchback,Petrol,Automatic,5.0,998.0,1.0
+Maruti Suzuki,Celerio X,552350.0,Hatchback,Petrol,Automatic,5.0,998.0,2.0
+Maruti Suzuki,Ignis,713898.0,Hatchback,Petrol,AMT,5.0,1197.0,2.0
+Maruti Suzuki,Ignis,666898.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Ignis,607841.0,Hatchback,Petrol,AMT,5.0,1197.0,2.0
+Maruti Suzuki,Ignis,560841.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Ignis,483320.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Ignis,630320.0,Hatchback,Petrol,AMT,5.0,1197.0,2.0
+Maruti Suzuki,Ignis,583320.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Renault,Triber,495000.0,MUV,Petrol,Manual,7.0,999.0,2.0
+Renault,Triber,559000.0,MUV,Petrol,Manual,7.0,999.0,2.0
+Renault,Triber,609000.0,MUV,Petrol,Manual,7.0,999.0,2.0
+Renault,Triber,663000.0,MUV,Petrol,Manual,7.0,999.0,4.0
+Premier,Rio,506000.0,SUV,Petrol,Manual,5.0,1173.0,2.0
+Premier,Rio,568623.0,SUV,Diesel,Manual,5.0,1489.0,2.0
+Premier,Rio,670000.0,SUV,Petrol,Manual,5.0,1173.0,2.0
+Premier,Rio,603000.0,SUV,Diesel,Manual,5.0,1489.0,2.0
+Premier,Rio,739000.0,SUV,Diesel,Manual,5.0,1489.0,2.0
+Premier,Rio,739000.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Toyota,Etios Liva,520300.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,581000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,647800.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Liva,630000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,745000.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Liva,704000.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Liva,597700.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,720700.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Liva,641700.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,756700.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Liva,558400.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,686000.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Liva,662700.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Liva,777700.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Nissan,Micra Active,525021.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Nissan,Micra Active,599950.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Nissan,Micra Active,563133.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Tata,Bolt,787980.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Tata,Bolt,661111.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Tata,Bolt,693798.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Tata,Bolt,719661.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Tata,Bolt,674960.0,Hatchback,Petrol,Manual,5.0,1193.0,2.0
+Tata,Bolt,529035.0,Hatchback,Petrol,Manual,5.0,1193.0,2.0
+Tata,Bolt,590268.0,Hatchback,Petrol,Manual,5.0,1193.0,2.0
+Tata,Bolt,614515.0,Hatchback,Petrol,Manual,5.0,1193.0,2.0
+Hyundai,Xcent Prime,556130.0,Sedan,CNG + Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent Prime,536859.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent Prime,556130.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent Prime,536859.0,Sedan,CNG + Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent Prime,639616.0,Sedan,Diesel,Manual,5.0,1197.0,2.0
+Hyundai,Xcent Prime,620297.0,Sedan,Diesel,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Dzire Tour,653523.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Dzire Tour,553423.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Dzire Tour,598940.0,Sedan,CNG,Manual,5.0,1197.0,2.0
+Hyundai,Elite I20,559693.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Elite I20,697803.0,Hatchback,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Elite I20,634950.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Elite I20,770803.0,Hatchback,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Elite I20,721693.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Elite I20,876103.0,Hatchback,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Elite I20,808993.0,Hatchback,Petrol,Manual,5.0,1197.0,6.0
+Hyundai,Elite I20,934003.0,Hatchback,Diesel,Manual,5.0,1396.0,6.0
+Hyundai,Elite I20,920993.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Elite I20,751693.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Elite I20,831693.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Elite I20,846103.0,Hatchback,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Aura,579900.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Aura,655900.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Aura,705800.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Aura,729900.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Aura,804800.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Aura,785900.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Aura,728900.0,Sedan,CNG + Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Aura,854900.0,Sedan,Petrol,Manual,5.0,998.0,2.0
+Hyundai,Aura,773800.0,Sedan,Diesel,Manual,5.0,1186.0,2.0
+Hyundai,Aura,823700.0,Sedan,Diesel,Automatic,5.0,1186.0,2.0
+Hyundai,Aura,922700.0,Sedan,Diesel,Automatic,5.0,1186.0,2.0
+Hyundai,Aura,903800.0,Sedan,Diesel,Manual,5.0,1186.0,2.0
+Volkswagen,Polo,582000.0,Hatchback,Petrol,Manual,5.0,999.0,2.0
+Volkswagen,Polo,676500.0,Hatchback,Petrol,Manual,5.0,999.0,2.0
+Volkswagen,Polo,776500.0,Hatchback,Petrol,Manual,5.0,999.0,2.0
+Volkswagen,Polo,734500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Polo,851500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Polo,931500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Polo,976000.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Volkswagen,Polo,988500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Maruti Suzuki,Dzire,582613.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,673112.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,666622.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Dzire,732113.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,757622.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Dzire,720112.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,863122.0,Sedan,Diesel,Automatic,5.0,1248.0,2.0
+Maruti Suzuki,Dzire,816622.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Dzire,821613.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,779113.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,868613.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Dzire,906122.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Dzire,804622.0,Sedan,Diesel,Automatic,5.0,1248.0,2.0
+Maruti Suzuki,Dzire,952622.0,Sedan,Diesel,Automatic,5.0,1248.0,2.0
+Ford,Freestyle,676400.0,Crossover,Diesel,Manual,5.0,1498.0,2.0
+Ford,Freestyle,790900.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Ford,Freestyle,836400.0,Hatchback,Diesel,Manual,5.0,1498.0,6.0
+Ford,Freestyle,591400.0,Hatchback,Petrol,Manual,5.0,1194.0,2.0
+Ford,Freestyle,721400.0,Hatchback,Petrol,Manual,5.0,1194.0,2.0
+Ford,Freestyle,756400.0,Hatchback,Petrol,Manual,5.0,1194.0,6.0
+Ford,Freestyle,681400.0,Crossover,Petrol,Manual,5.0,1194.0,2.0
+Ford,Freestyle,745900.0,Crossover,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Ameo,711500.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Ameo,810500.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Ameo,999900.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Volkswagen,Ameo,925500.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Ameo,594000.0,Sedan,Petrol,Manual,5.0,999.0,2.0
+Volkswagen,Ameo,665000.0,Sedan,Petrol,Manual,5.0,999.0,2.0
+Volkswagen,Ameo,799900.0,Sedan,Petrol,Manual,5.0,999.0,2.0
+Volkswagen,Ameo,999900.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Ford,Aspire,598500.0,Sedan,Petrol,Manual,5.0,1194.0,2.0
+Ford,Aspire,697400.0,Sedan,Petrol,Manual,5.0,1194.0,2.0
+Ford,Aspire,663400.0,Sedan,Petrol,Manual,5.0,1194.0,2.0
+Ford,Aspire,699400.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Ford,Aspire,737400.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Ford,Aspire,777400.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Ford,Aspire,817400.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Ford,Aspire,862400.0,Sedan,Diesel,Manual,5.0,1498.0,6.0
+Ford,Aspire,782400.0,Sedan,Petrol,Manual,5.0,1194.0,6.0
+Ford,Aspire,737400.0,Sedan,Petrol,Manual,5.0,1194.0,2.0
+Ford,Aspire,758314.0,Sedan,CNG,Manual,5.0,1194.0,2.0
+Ford,Aspire,762400.0,Sedan,Petrol,Manual,5.0,1194.0,2.0
+Ford,Aspire,842400.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Toyota,Platinum Etios,627100.0,Sedan,Petrol,Manual,5.0,1496.0,2.0
+Toyota,Platinum Etios,718600.0,Sedan,Petrol,Manual,5.0,1496.0,2.0
+Toyota,Platinum Etios,734700.0,Sedan,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Platinum Etios,828600.0,Sedan,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Platinum Etios,888400.0,Sedan,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Platinum Etios,778400.0,Sedan,Petrol,Manual,5.0,1496.0,2.0
+Toyota,Platinum Etios,689600.0,Sedan,Petrol,Manual,5.0,1496.0,2.0
+Toyota,Platinum Etios,799600.0,Sedan,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Platinum Etios,913400.0,Sedan,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Platinum Etios,803400.0,Sedan,Petrol,Manual,5.0,1496.0,2.0
+Toyota,Etios Cross,802000.0,Hatchback,Petrol,Manual,5.0,1496.0,2.0
+Toyota,Etios Cross,650000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Cross,797500.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Cross,766000.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Toyota,Etios Cross,668500.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Etios Cross,816000.0,Hatchback,Diesel,Manual,5.0,1364.0,2.0
+Mahindra,Verito Vibe,657628.0,Hatchback,Diesel,Manual,5.0,1461.0,2.0
+Mahindra,Verito Vibe,685729.0,Hatchback,Diesel,Manual,5.0,1461.0,2.0
+Mahindra,Verito Vibe,750428.0,Hatchback,Diesel,Manual,5.0,1461.0,1.0
+Fiat,Urban Cross,677618.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Urban Cross,739074.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Urban Cross,977516.0,Crossover,Petrol,Manual,5.0,1368.0,2.0
+Fiat,Urban Cross,810211.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Toyota,Glanza,721900.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Glanza,758200.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Toyota,Glanza,829900.0,Hatchback,Petrol,CVT,5.0,1197.0,2.0
+Toyota,Glanza,890200.0,Hatchback,Petrol,CVT,5.0,1197.0,2.0
+Toyota,Glanza,697900.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Fiat,Avventura,796132.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Avventura,711801.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Avventura,876341.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Honda,Jazz,745000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Honda,Jazz,909000.0,Hatchback,Petrol,Automatic,5.0,1199.0,2.0
+Honda,Jazz,789000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Honda,Jazz,865000.0,Hatchback,Petrol,Automatic,5.0,1199.0,2.0
+Honda,Jazz,816500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Honda,Jazz,896500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Honda,Jazz,940500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Honda,Jazz,928000.0,Hatchback,Petrol,Automatic,5.0,1199.0,2.0
+Jeep,Compass Trailhawk,2680000.0,SUV,Diesel,Automatic,5.0,1956.0,6.0
+Jeep,Compass Trailhawk,2760000.0,SUV,Diesel,Automatic,5.0,1956.0,6.0
+Isuzu,Mu-X,2734834.0,SUV,Diesel,Automatic,7.0,2999.0,2.0
+Isuzu,Mu-X,2931534.0,SUV,Diesel,Automatic,7.0,2999.0,2.0
+Mahindra,Alturas G4,2770150.0,Unknown,Diesel,Automatic,5.0,2157.0,2.0
+Mahindra,Alturas G4,3070150.0,SUV,Diesel,Automatic,7.0,2157.0,9.0
+Volkswagen,Tiguan,2814500.0,SUV,Diesel,Automatic,5.0,1968.0,6.0
+Volkswagen,Tiguan,3153500.0,SUV,Diesel,Automatic,5.0,1968.0,6.0
+Honda,Cr-V,2827001.0,SUV,Petrol,Automatic,5.0,1997.0,6.0
+Honda,Cr-V,3067001.0,SUV,Diesel,Automatic,7.0,1597.0,6.0
+Honda,Cr-V,3277001.0,SUV,Diesel,Automatic,7.0,1597.0,6.0
+Skoda,Superb Sportline,2899599.0,Sedan,Petrol,Automatic,5.0,1798.0,8.0
+Skoda,Superb Sportline,3149599.0,Sedan,Diesel,Automatic,5.0,1968.0,8.0
+Audi,A3,3021200.0,Sedan,Diesel,Automatic,5.0,1968.0,9.0
+Audi,A3,3221200.0,Sedan,Diesel,Automatic,5.0,1968.0,9.0
+Audi,A3,2920750.0,Sedan,Petrol,Automatic,5.0,1395.0,9.0
+Audi,A3,3120750.0,Sedan,Petrol,Automatic,5.0,1395.0,9.0
+,Mercedes-Benz B-Class,2988311.0,MPV,Petrol,Automatic,5.0,1595.0,7.0
+,Mercedes-Benz B-Class,3089851.0,MPV,Diesel,Automatic,5.0,2143.0,7.0
+,Mercedes-Benz B-Class,3198662.0,MPV,Petrol,Automatic,5.0,1595.0,6.0
+,Mercedes-Benz B-Class,3303282.0,MPV,Diesel,Automatic,5.0,2143.0,6.0
+,Mercedes-Benz Cla-Class,3599000.0,Sedan,Petrol,Automatic,5.0,1991.0,6.0
+,Mercedes-Benz Cla-Class,3172000.0,Sedan,Diesel,Automatic,5.0,2143.0,6.0
+,Mercedes-Benz Cla-Class,3699000.0,Sedan,Diesel,Automatic,5.0,2143.0,6.0
+Skoda,Kodiaq,3299599.0,SUV,Diesel,Automatic,5.0,1968.0,8.0
+Skoda,Kodiaq,3678599.0,SUV,Diesel,Automatic,5.0,1968.0,9.0
+Skoda,Kodiaq,3299599.0,SUV,Diesel,Automatic,5.0,1968.0,9.0
+Dc,Avanti,3407407.0,Coupe,Petrol,Manual,2.0,2000.0,2.0
+Audi,Q3,3677200.0,SUV,Diesel,Manual,5.0,1968.0,6.0
+Audi,Q3,3992200.0,SUV,Diesel,Automatic,5.0,1968.0,6.0
+Audi,Q3,4361000.0,SUV,Diesel,Automatic,5.0,1968.0,6.0
+Audi,Q3,3496750.0,SUV,Petrol,Automatic,5.0,1395.0,6.0
+Mini,Cooper 5 Door,3600000.0,Hatchback,Petrol,Automatic,5.0,1496.0,2.0
+Mini,Convertible,3830000.0,Convertible,Petrol,Automatic,4.0,1998.0,2.0
+Volvo,Xc40,3990000.0,SUV,Diesel,Automatic,5.0,1969.0,7.0
+Volvo,Xc40,4390000.0,SUV,Diesel,Automatic,5.0,1969.0,7.0
+Volvo,Xc40,3990000.0,SUV,Petrol,Automatic,5.0,1969.0,8.0
+Mini,Clubman,4120000.0,Hatchback,Petrol,Manual,5.0,1998.0,2.0
+Audi,A4,4149000.0,Sedan,Petrol,DCT,5.0,1395.0,8.0
+Audi,A4,4507000.0,Sedan,Petrol,DCT,5.0,1395.0,8.0
+Mini,John Cooper Works,4350000.0,"Sports, Hatchback",Petrol,Automatic,2.0,1998.0,2.0
+Jaguar,Xe,4498000.0,Sedan,Petrol,Automatic,5.0,1997.0,6.0
+Jaguar,Xe,4498000.0,Sedan,Diesel,Automatic,4.0,1999.0,6.0
+Jaguar,Xe,4633000.0,Sedan,Diesel,Automatic,4.0,1999.0,6.0
+Jaguar,Xe,4633000.0,Sedan,Petrol,Automatic,5.0,1997.0,6.0
+Jaguar,Xf,5436329.0,Sedan,Petrol,Automatic,5.0,1999.0,6.0
+Jaguar,Xf,6073446.0,Sedan,Petrol,Automatic,5.0,1999.0,6.0
+Jaguar,Xf,6138811.0,Sedan,Diesel,Automatic,5.0,1999.0,6.0
+Jaguar,Xf,5506622.0,Sedan,Diesel,Automatic,5.0,1999.0,6.0
+Jaguar,Xf,4977080.0,Sedan,Diesel,Automatic,5.0,1999.0,6.0
+Audi,A3 Cabriolet,5038000.0,Convertible,Petrol,Automatic,4.0,1395.0,7.0
+Audi,A6,5442200.0,Sedan,Petrol,Automatic,5.0,1984.0,8.0
+Audi,A6,5942200.0,Sedan,Petrol,Automatic,5.0,1984.0,8.0
+Bmw,X3,5930000.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Bmw,X3,5880000.0,SUV,Petrol,Automatic,5.0,1998.0,6.0
+Bmw,X3,5600000.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Land Rover,Discovery Sport,5706000.0,SUV,Diesel,Automatic,7.0,1999.0,7.0
+Land Rover,Discovery Sport,6089000.0,SUV,Diesel,Automatic,7.0,1999.0,7.0
+Volvo,S90,5890000.0,Sedan,Diesel,Automatic,5.0,1969.0,6.0
+Audi,S5,7243000.0,Sedan,Petrol,Automatic,5.0,2995.0,10.0
+Bmw,X5,7330000.0,SUV,Diesel,Automatic,5.0,2993.0,8.0
+Bmw,X5,8290000.0,SUV,Diesel,Automatic,5.0,2993.0,8.0
+Bmw,X5,8290000.0,SUV,Petrol,Automatic,5.0,2998.0,8.0
+Ford,Mustang,7462000.0,"Sedan, Coupe",Petrol,Automatic,4.0,4951.0,8.0
+Jeep,Grand Cherokee,7882867.0,SUV,Diesel,Automatic,5.0,2987.0,6.0
+Jeep,Grand Cherokee,8931819.0,SUV,Diesel,Automatic,5.0,2987.0,6.0
+Jeep,Grand Cherokee,11400000.0,SUV,Petrol,Automatic,5.0,6417.0,7.0
+Jeep,Grand Cherokee,7515000.0,SUV,Petrol,Automatic,5.0,3604.0,6.0
+,Mercedes-Benz E-Class Cabriolet,7711338.0,Convertible,Petrol,Unknown,4.0,2996.0,6.0
+Bmw,M2 Competition,8180000.0,Coupe,Petrol,Automatic,4.0,2979.0,10.0
+Porsche,718,8995000.0,Convertible,Petrol,Automatic,2.0,1988.0,4.0
+Porsche,718,8595000.0,Coupe,Petrol,Automatic,2.0,1988.0,4.0
+,Mercedes-Benz Gls,8820000.0,SUV,Diesel,Automatic,5.0,2987.0,9.0
+,Mercedes-Benz Gls,19199181.0,SUV,Petrol,Automatic,7.0,5461.0,9.0
+,Mercedes-Benz Gls,8776900.0,SUV,Petrol,Automatic,7.0,2996.0,9.0
+,Mercedes-Benz Gls,8690000.0,SUV,Petrol,Automatic,7.0,2996.0,9.0
+,Mercedes-Benz Gls,8690000.0,SUV,Diesel,Automatic,5.0,2987.0,9.0
+Toyota,Land Cruiser Prado,9630000.0,SUV,Diesel,Automatic,7.0,2982.0,7.0
+Lexus,Rx 450H,9900000.0,SUV,Petrol,Automatic,5.0,3456.0,10.0
+Audi,Rs5,11141200.0,Coupe,Petrol,Automatic,4.0,2894.0,6.0
+Bmw,7-Series,12290000.0,Sedan,Diesel,Automatic,4.0,2993.0,8.0
+Bmw,7-Series,13200000.0,Sedan,Diesel,Automatic,4.0,2993.0,8.0
+Bmw,7-Series,13510000.0,Sedan,Diesel,Automatic,4.0,2993.0,8.0
+Bmw,7-Series,13510000.0,Sedan,Petrol,Automatic,4.0,2998.0,8.0
+Bmw,7-Series,16500000.0,Sedan,Hybrid,Automatic,4.0,2998.0,8.0
+Bmw,7-Series,24250000.0,Sedan,Petrol,Automatic,4.0,6592.0,8.0
+Audi,Q8,13359500.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+,Mercedes-Benz S-Class,13558438.0,Sedan,Diesel,Automatic,5.0,2987.0,8.0
+,Mercedes-Benz S-Class,13976653.0,Sedan,Petrol,Automatic,5.0,2996.0,8.0
+,Mercedes-Benz S-Class,25500000.0,Coupe,Petrol,Automatic,4.0,3982.0,8.0
+Maserati,Levante,14512054.0,SUV,Diesel,Automatic,4.0,2987.0,6.0
+Maserati,Levante,14863774.0,SUV,Diesel,Automatic,4.0,2979.0,6.0
+Maserati,Levante,15383399.0,SUV,Diesel,Automatic,4.0,2979.0,6.0
+,Mercedes-Benz G-Class,21875136.0,SUV,Petrol,Automatic,7.0,3982.0,10.0
+,Mercedes-Benz G-Class,15000000.0,SUV,Diesel,Automatic,7.0,2925.0,10.0
+Audi,A8 L,15600000.0,Sedan,Petrol,Automatic,4.0,2995.0,6.0
+Maserati,Granturismo,17229579.0,Coupe,Petrol,Automatic,4.0,4691.0,6.0
+Maserati,Quattroporte,17900000.0,Sports,Diesel,Automatic,4.0,2987.0,6.0
+Lexus,Lc 500H,19600000.0,Coupe,Hybrid,Automatic,4.0,3456.0,8.0
+,Mercedes-Benz Maybach,27308312.0,Sedan,Petrol,Automatic,4.0,5980.0,8.0
+,Mercedes-Benz Maybach,19890000.0,Sedan,Petrol,Automatic,4.0,4663.0,8.0
+Porsche,Panamera,21263000.0,Sedan,Petrol,Automatic,4.0,3996.0,6.0
+Porsche,Panamera,22613000.0,Sedan,Petrol,Automatic,4.0,3996.0,6.0
+Porsche,Panamera,21747000.0,Sedan,Petrol,Automatic,4.0,3996.0,6.0
+Lexus,Lx 450D,23290000.0,SUV,Diesel,Automatic,7.0,4461.0,10.0
+,Mercedes-Benz S-Class Cabriolet,23491293.0,Convertible,Petrol,Automatic,4.0,4663.0,8.0
+Audi,R8,27245000.0,Coupe,Petrol,Automatic,2.0,5204.0,8.0
+Lamborghini,Urus,30000000.0,SUV,Petrol,Automatic,5.0,3996.0,8.0
+Bentley,Continental Gt,33791059.0,Coupe,Petrol,Automatic,4.0,5998.0,6.0
+Ferrari,Portofino,35000000.0,Convertible,Petrol,Automatic,2.0,3855.0,4.0
+Bentley,Bentayga,45941557.0,SUV,Petrol,Automatic,5.0,5950.0,6.0
+Bentley,Bentayga,37542069.0,SUV,Petrol,Automatic,5.0,3996.0,6.0
+Aston Martin,Db 11,40456503.0,Coupe,Petrol,Automatic,2.0,5198.0,8.0
+Ferrari,458 Speciale,42531500.0,Coupe,Petrol,Automatic,2.0,4497.0,5.0
+,Rolls-Royce Ghost Series Ii,46709733.0,Sedan,Petrol,Automatic,5.0,6593.0,6.0
+,Rolls-Royce Ghost Series Ii,53247201.0,Sedan,Petrol,Automatic,5.0,6592.0,6.0
+,Rolls-Royce Wraith,50025840.0,Coupe,Petrol,Automatic,4.0,6592.0,2.0
+Bentley,Mulsanne,52571294.0,Sedan,Petrol,Automatic,4.0,6752.0,6.0
+,Rolls-Royce Cullinan,69500000.0,SUV,Petrol,Automatic,5.0,6750.0,2.0
+,Rolls-Royce Phantom Coupe,77312661.0,Coupe,Petrol,Automatic,4.0,6749.0,6.0
+Bugatti,Chiron,192142937.0,Sports,Petrol,Automatic,2.0,7993.0,6.0
+Bugatti,Chiron,212155397.0,Sports,Petrol,Automatic,2.0,7993.0,6.0
+Bajaj,Qute (Re60),263000.0,Hatchback,Petrol,Manual,4.0,216.0,2.0
+Bajaj,Qute (Re60),283000.0,Hatchback,CNG,Manual,4.0,216.0,2.0
+Maruti Suzuki,Alto,294800.0,Hatchback,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Alto,299900.0,Hatchback,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Alto,352900.0,Hatchback,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Alto,357200.0,Hatchback,Petrol,Manual,5.0,796.0,1.0
+Maruti Suzuki,Alto,376100.0,Hatchback,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Alto,405570.0,Hatchback,CNG + Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Alto,409190.0,Hatchback,CNG + Petrol,Manual,5.0,796.0,1.0
+Maruti Suzuki,Alto,389600.0,Hatchback,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,S-Presso,370500.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,S-Presso,376500.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,S-Presso,409000.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,S-Presso,415000.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,S-Presso,432500.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,S-Presso,438500.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,S-Presso,475500.0,Hatchback,Petrol,AMT,5.0,998.0,1.0
+Maruti Suzuki,S-Presso,456000.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,S-Presso,481500.0,Hatchback,Petrol,AMT,5.0,998.0,2.0
+Maruti Suzuki,S-Presso,499000.0,Hatchback,Petrol,AMT,5.0,998.0,2.0
+Maruti Suzuki,Celerio,426289.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio,465138.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio,508138.0,Hatchback,Petrol,Automatic,5.0,998.0,2.0
+Maruti Suzuki,Celerio,490924.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki,Celerio,531279.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio,530000.0,Hatchback,CNG,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio,533924.0,Hatchback,Petrol,Automatic,5.0,998.0,1.0
+Maruti Suzuki,Celerio,434659.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio,472257.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki,Celerio,515257.0,Hatchback,Petrol,Automatic,5.0,998.0,2.0
+Maruti Suzuki,Celerio,543279.0,Hatchback,Petrol,Automatic,5.0,998.0,2.0
+Hyundai,Grand I10 Prime,551530.0,Hatchback,Diesel,Manual,5.0,1120.0,2.0
+Hyundai,Grand I10 Prime,568930.0,Hatchback,Diesel,Manual,5.0,1120.0,1.0
+Hyundai,Grand I10 Prime,460369.0,Hatchback,Petrol,Manual,5.0,1197.0,1.0
+Hyundai,Grand I10 Prime,477511.0,Hatchback,Petrol,Manual,5.0,1197.0,1.0
+Hyundai,Grand I10 Prime,545946.0,Hatchback,CNG,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10 Prime,528804.0,Hatchback,CNG,Manual,5.0,1197.0,2.0
+Mahindra,Kuv100 Nxt,488194.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,532184.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,590798.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,619243.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,667273.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,579645.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,631144.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,754548.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,693550.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,787304.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,701045.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,794800.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,573250.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,631146.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,687175.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,660832.0,Hatchback,Diesel,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,748128.0,Hatchback,Diesel,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,780884.0,Hatchback,Diesel,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,550155.0,Hatchback,Diesel,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,559741.0,Hatchback,Diesel,Manual,6.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,524312.0,Hatchback,Petrol,Manual,5.0,1198.0,2.0
+Mahindra,Kuv100 Nxt,542913.0,Hatchback,Petrol,Manual,6.0,1198.0,2.0
+Maruti Suzuki,Swift,519000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Swift,619000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Swift,666000.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Swift,678000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Swift,725000.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Swift,758000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Swift,599000.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Swift,698000.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Swift,745000.0,Hatchback,Diesel,Automatic,5.0,1248.0,2.0
+Maruti Suzuki,Swift,757000.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Swift,804000.0,Hatchback,Diesel,Automatic,5.0,1248.0,2.0
+Maruti Suzuki,Swift,838000.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Swift,802000.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Swift,884000.0,Hatchback,Diesel,Automatic,5.0,1248.0,2.0
+Tata,Altroz,529000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Altroz,615000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Altroz,684000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Altroz,744000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Altroz,769000.0,Hatchback,Petrol,Manual,5.0,1199.0,2.0
+Tata,Altroz,699000.0,Hatchback,Diesel,Manual,5.0,1497.0,2.0
+Tata,Altroz,775000.0,Hatchback,Diesel,Manual,5.0,1497.0,2.0
+Tata,Altroz,844000.0,Hatchback,Diesel,Manual,5.0,1497.0,2.0
+Tata,Altroz,904000.0,Hatchback,Diesel,Manual,5.0,1497.0,2.0
+Tata,Altroz,929000.0,Hatchback,Diesel,Manual,5.0,1497.0,2.0
+Icml,Extreme,642478.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,589678.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,689761.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,788177.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,2650777.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,628072.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,900967.0,SUV,Diesel,Manual,7.0,1994.0,2.0
+Icml,Extreme,1465148.0,SUV,Diesel,Manual,7.0,1994.0,2.0
+Icml,Extreme,552890.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Icml,Extreme,927689.0,SUV,Diesel,Manual,7.0,1994.0,2.0
+Icml,Extreme,835275.0,SUV,Diesel,Manual,9.0,1994.0,2.0
+Tata,Tigor,575000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tigor,610000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tigor,650000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tigor,699000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tigor,660000.0,Sedan,Petrol,AMT,5.0,1199.0,2.0
+Tata,Tigor,749000.0,Sedan,Petrol,AMT,5.0,1199.0,2.0
+Tata,Zest,582287.0,Sedan,Petrol,Manual,5.0,1193.0,2.0
+Tata,Zest,702946.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Tata,Zest,653926.0,Sedan,Petrol,Manual,5.0,1193.0,2.0
+Tata,Zest,672641.0,Sedan,Petrol,Manual,5.0,1193.0,2.0
+Tata,Zest,732475.0,Sedan,Petrol,Manual,5.0,1193.0,2.0
+Tata,Zest,767317.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Tata,Zest,793898.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Tata,Zest,855362.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Tata,Zest,836320.0,Sedan,Diesel,AMT,5.0,1248.0,2.0
+Tata,Zest,989000.0,Sedan,Diesel,Automatic,5.0,1248.0,2.0
+Tata,Zest,788797.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Honda,Amaze,763000.0,Sedan,Petrol,Automatic,5.0,1199.0,2.0
+Honda,Amaze,705000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,Amaze,593000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Honda,Amaze,865000.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Honda,Amaze,823000.0,Sedan,Petrol,Automatic,5.0,1199.0,2.0
+Honda,Amaze,925000.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Honda,Amaze,785000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,Amaze,893000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,Amaze,845000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,Amaze,781000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Honda,Amaze,733000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Honda,Amaze,673000.0,Sedan,Petrol,Manual,5.0,1198.0,2.0
+Honda,Amaze,906000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,Amaze,794000.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Honda,Amaze,966000.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Honda,Amaze,864000.0,Sedan,Petrol,Automatic,5.0,1199.0,2.0
+Honda,Amaze,979300.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Honda,Amaze,877300.0,Sedan,Petrol,Automatic,5.0,1199.0,2.0
+Honda,Amaze,906300.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,Amaze,794300.0,Sedan,Petrol,Manual,5.0,1199.0,2.0
+Maruti Suzuki,Gypsy,637343.0,SUV,Petrol,Manual,8.0,1298.0,2.0
+Maruti Suzuki,Gypsy,622730.0,SUV,Petrol,Manual,8.0,1298.0,2.0
+Hyundai,Venue,655000.0,SUV,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Venue,826000.0,SUV,Petrol,Manual,5.0,998.0,2.0
+Hyundai,Venue,780000.0,SUV,Diesel,Manual,5.0,1397.0,2.0
+Hyundai,Venue,959000.0,SUV,Petrol,Manual,5.0,998.0,2.0
+Hyundai,Venue,974000.0,SUV,Petrol,Manual,5.0,998.0,2.0
+Hyundai,Venue,1065000.0,SUV,Petrol,Manual,5.0,998.0,6.0
+Hyundai,Venue,940000.0,SUV,Petrol,DCT,5.0,998.0,2.0
+Hyundai,Venue,1115500.0,SUV,Petrol,DCT,5.0,998.0,2.0
+Hyundai,Venue,725000.0,SUV,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Venue,850000.0,SUV,Diesel,Manual,5.0,1397.0,2.0
+Hyundai,Venue,983000.0,SUV,Diesel,Manual,5.0,1397.0,2.0
+Hyundai,Venue,998000.0,SUV,Diesel,Manual,5.0,1397.0,2.0
+Hyundai,Venue,1089000.0,SUV,Diesel,Manual,5.0,1397.0,6.0
+Tata,Nexon,695000.0,SUV,Petrol,Manual,5.0,1198.0,2.0
+Tata,Nexon,770000.0,SUV,Petrol,Manual,5.0,1198.0,2.0
+Tata,Nexon,870000.0,SUV,Petrol,Manual,5.0,1198.0,2.0
+Tata,Nexon,950000.0,SUV,Petrol,Manual,5.0,1198.0,2.0
+Tata,Nexon,970000.0,SUV,Petrol,Manual,5.0,1198.0,2.0
+Tata,Nexon,1040000.0,SUV,Petrol,Manual,5.0,1198.0,2.0
+Tata,Nexon,1060000.0,SUV,Petrol,Automatic,5.0,1198.0,2.0
+Tata,Nexon,830000.0,SUV,Petrol,Automatic,5.0,1198.0,2.0
+Tata,Nexon,1010000.0,SUV,Petrol,Automatic,5.0,1198.0,2.0
+Tata,Nexon,1030000.0,SUV,Petrol,Automatic,5.0,1198.0,2.0
+Tata,Nexon,1100000.0,SUV,Petrol,Automatic,5.0,1198.0,2.0
+Tata,Nexon,1120000.0,SUV,Petrol,Automatic,5.0,1198.0,2.0
+Tata,Nexon,845000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,920000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,1020000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,1100000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,1120000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,1190000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,1210000.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Tata,Nexon,980000.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Tata,Nexon,1160000.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Tata,Nexon,1180000.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Tata,Nexon,1250000.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Tata,Nexon,1270000.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Fiat,Linea,715860.0,Sedan,Petrol,Manual,5.0,1368.0,2.0
+Fiat,Linea,862175.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Linea,932025.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Linea,991434.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Linea,997763.0,Sedan,Petrol,Manual,5.0,1368.0,2.0
+Mahindra,Bolero Power Plus,886398.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Bolero Power Plus,851302.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Bolero Power Plus,785656.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Bolero Power Plus,749192.0,SUV,Diesel,Manual,7.0,1493.0,1.0
+Mahindra,Bolero Power Plus,859497.0,SUV,Diesel,Manual,7.0,2523.0,2.0
+Mahindra,Bolero Power Plus,819117.0,SUV,Diesel,Manual,9.0,2523.0,2.0
+Maruti Suzuki,Vitara Brezza,762742.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,814742.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,892243.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,987743.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,1003552.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,1037742.0,SUV,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,864742.0,SUV,Diesel,Automatic,5.0,1248.0,1.0
+Maruti Suzuki,Vitara Brezza,942243.0,SUV,Diesel,Automatic,5.0,1248.0,2.0
+Maruti Suzuki,Vitara Brezza,1059742.0,SUV,Diesel,Automatic,5.0,1248.0,2.0
+Hyundai,I20 Active,774035.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,I20 Active,858536.0,Hatchback,Petrol,Manual,5.0,1197.0,6.0
+Hyundai,I20 Active,882298.0,Hatchback,Petrol,Manual,5.0,1197.0,6.0
+Hyundai,I20 Active,993393.0,Hatchback,Diesel,Manual,5.0,1396.0,6.0
+Ford,Ecosport,791000.0,SUV,Petrol,Manual,5.0,1497.0,2.0
+Ford,Ecosport,871000.0,SUV,Petrol,Manual,5.0,1497.0,2.0
+Ford,Ecosport,950000.0,SUV,Petrol,Manual,5.0,1497.0,2.0
+Ford,Ecosport,1130000.0,SUV,Petrol,Automatic,5.0,1497.0,6.0
+Ford,Ecosport,841000.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Ford,Ecosport,921000.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Ford,Ecosport,999900.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Ford,Ecosport,1090000.0,SUV,Diesel,Manual,5.0,1498.0,6.0
+Ford,Ecosport,999900.0,SUV,Petrol,Manual,5.0,1497.0,6.0
+Ford,Ecosport,1145000.0,SUV,Diesel,Manual,5.0,1498.0,6.0
+Ford,Ecosport,999900.0,SUV,Petrol,Manual,5.0,1497.0,6.0
+Ford,Ecosport,1090000.0,SUV,Diesel,Manual,5.0,1498.0,6.0
+Renault,Duster,799990.0,SUV,Petrol,Manual,5.0,1498.0,2.0
+Renault,Duster,919990.0,SUV,Petrol,Manual,5.0,1498.0,2.0
+Renault,Duster,999990.0,SUV,Petrol,CVT,5.0,1498.0,2.0
+Renault,Duster,929990.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Renault,Duster,999990.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Renault,Duster,1119990.0,SUV,Diesel,Automatic,5.0,1461.0,2.0
+Renault,Duster,1209990.0,SUV,Diesel,Automatic,5.0,1461.0,2.0
+Renault,Duster,1249990.0,SUV,Diesel,Automatic,5.0,1461.0,2.0
+Renault,Duster,1249990.0,SUV,Diesel,Automatic,5.0,1461.0,2.0
+Hyundai,Verna,999900.0,Sedan,Petrol,Manual,5.0,1591.0,2.0
+Hyundai,Verna,1172544.0,Sedan,Diesel,Manual,5.0,1582.0,2.0
+Hyundai,Verna,1301881.0,Sedan,Diesel,Manual,5.0,1582.0,6.0
+Hyundai,Verna,1172999.0,Sedan,Petrol,Manual,5.0,1591.0,6.0
+Hyundai,Verna,1328545.0,Sedan,Diesel,Automatic,5.0,1582.0,2.0
+Hyundai,Verna,1287999.0,Sedan,Petrol,Automatic,5.0,1591.0,6.0
+Hyundai,Verna,933182.0,Sedan,Petrol,Manual,5.0,1396.0,2.0
+Hyundai,Verna,817867.0,Sedan,Petrol,Manual,5.0,1396.0,2.0
+Hyundai,Verna,1178894.0,Sedan,Petrol,Manual,5.0,1591.0,6.0
+Hyundai,Verna,1162875.0,Sedan,Petrol,Automatic,5.0,1591.0,6.0
+Hyundai,Verna,1407871.0,Sedan,Diesel,Automatic,5.0,1582.0,2.0
+Hyundai,Verna,942867.0,Sedan,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Verna,999900.0,Sedan,Diesel,Manual,5.0,1396.0,2.0
+Mahindra,Xuv300,830127.0,SUV,Petrol,Manual,5.0,1197.0,2.0
+Mahindra,Xuv300,915128.0,SUV,Petrol,Manual,5.0,1197.0,2.0
+Mahindra,Xuv300,1060129.0,SUV,Petrol,Manual,5.0,1197.0,2.0
+Mahindra,Xuv300,1184129.0,SUV,Petrol,Manual,5.0,1197.0,2.0
+Mahindra,Xuv300,869131.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Mahindra,Xuv300,950131.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Mahindra,Xuv300,1095129.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Mahindra,Xuv300,1214130.0,SUV,Diesel,Manual,5.0,1497.0,2.0
+Mahindra,Xuv300,1149800.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Mahindra,Xuv300,1269131.0,SUV,Diesel,Automatic,5.0,1497.0,2.0
+Mahindra,Xuv300,999000.0,SUV,Diesel,AMT,5.0,1497.0,2.0
+Renault,Lodgy,863299.0,MUV,Diesel,Manual,8.0,1461.0,2.0
+Renault,Lodgy,964199.0,MUV,Diesel,Manual,8.0,1461.0,2.0
+Renault,Lodgy,1211599.0,MUV,Diesel,Manual,5.0,1461.0,2.0
+Renault,Lodgy,1211599.0,MUV,Diesel,Manual,7.0,1461.0,2.0
+Renault,Lodgy,1053899.0,MUV,Diesel,Manual,8.0,1461.0,2.0
+Renault,Lodgy,1130099.0,MUV,Diesel,Manual,8.0,1461.0,2.0
+Renault,Lodgy,964199.0,MUV,Diesel,Manual,7.0,1461.0,2.0
+Volkswagen,Vento,876500.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Volkswagen,Vento,999900.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Volkswagen,Vento,999900.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Volkswagen,Vento,1197500.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Volkswagen,Vento,1449500.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Volkswagen,Vento,958500.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Vento,999900.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Vento,1210500.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Vento,1336500.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Volkswagen,Vento,1317500.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Volkswagen,Vento,1449500.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Volkswagen,Vento,1317500.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Mahindra,E2O Plus,881425.0,Hatchback,Electric,Automatic,4.0,1858.804588607595,2.0
+Mahindra,E2O Plus,957177.0,Hatchback,Electric,Automatic,4.0,1858.804588607595,2.0
+Tata,Tigor Ev,960868.0,Sedan,Electric,Automatic,5.0,1858.804588607595,2.0
+Tata,Tigor Ev,975868.0,Sedan,Electric,Automatic,5.0,1858.804588607595,2.0
+Tata,Tigor Ev,944175.0,Sedan,Electric,Automatic,5.0,1858.804588607595,1.0
+Honda,Brv,952900.0,SUV,Petrol,Manual,7.0,1497.0,2.0
+Honda,Brv,1052900.0,SUV,Petrol,Manual,7.0,1497.0,2.0
+Honda,Brv,1167900.0,SUV,Petrol,Manual,7.0,1497.0,2.0
+Honda,Brv,1271900.0,SUV,Petrol,Manual,7.0,1497.0,2.0
+Honda,Brv,1285900.0,SUV,Petrol,Automatic,7.0,1497.0,2.0
+Honda,Brv,1187900.0,SUV,Diesel,Manual,7.0,1498.0,2.0
+Honda,Brv,1273900.0,SUV,Diesel,Manual,7.0,1498.0,2.0
+Honda,Brv,1382900.0,SUV,Diesel,Manual,7.0,1498.0,2.0
+Mahindra,Thar,959860.0,SUV,Diesel,Manual,6.0,2498.0,2.0
+Mahindra,Thar,999148.0,SUV,Diesel,Manual,6.0,2498.0,2.0
+Mahindra,Thar,974860.0,SUV,Diesel,Manual,6.0,2498.0,2.0
+Force,Gurkha,999000.0,SUV,Diesel,Manual,7.0,2596.0,2.0
+Force,Gurkha,1075000.0,SUV,Diesel,Manual,5.0,2596.0,2.0
+Force,Gurkha,1299000.0,SUV,Diesel,Manual,5.0,2149.0,2.0
+Force,Gurkha,1330000.0,SUV,Diesel,Manual,5.0,2149.0,2.0
+Force,Gurkha,975000.0,SUV,Diesel,Manual,7.0,2596.0,2.0
+Force,Gurkha,1225000.0,SUV,Diesel,Manual,5.0,2596.0,2.0
+Maruti Suzuki,Xl6,984689.0,MPV,Petrol,Manual,6.0,1462.0,2.0
+Maruti Suzuki,Xl6,1041189.0,MPV,Petrol,Manual,6.0,1462.0,2.0
+Maruti Suzuki,Xl6,1094689.0,MPV,Petrol,Automatic,6.0,1462.0,2.0
+Maruti Suzuki,Xl6,1151189.0,MPV,Petrol,Automatic,6.0,1462.0,2.0
+Fiat,Abarth Avventura,989219.0,Crossover,Petrol,Manual,5.0,1368.0,2.0
+Mahindra,Tuv300 Plus,992748.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Tuv300 Plus,1029650.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Tuv300 Plus,1142157.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Marazzo,999900.0,MPV,Diesel,Manual,7.0,1497.0,2.0
+Mahindra,Marazzo,1156471.0,MPV,Diesel,Manual,7.0,1497.0,2.0
+Mahindra,Marazzo,1308592.0,MPV,Diesel,Manual,7.0,1497.0,2.0
+Mahindra,Marazzo,1468440.0,MPV,Diesel,Manual,7.0,1497.0,2.0
+Mahindra,Marazzo,999900.0,MPV,Diesel,Manual,8.0,1497.0,2.0
+Mahindra,Marazzo,1164569.0,MPV,Diesel,Manual,8.0,1497.0,2.0
+Mahindra,Marazzo,1316690.0,MPV,Diesel,Manual,8.0,1497.0,2.0
+Mahindra,Marazzo,1476538.0,MPV,Diesel,Manual,8.0,1497.0,2.0
+Mahindra,Scorpio,999994.0,SUV,Diesel,Manual,9.0,2523.0,2.0
+Mahindra,Scorpio,1236258.0,SUV,Diesel,Manual,5.0,2179.0,2.0
+Mahindra,Scorpio,1123158.0,SUV,Diesel,Manual,5.0,2179.0,2.0
+Mahindra,Scorpio,1220030.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Scorpio,1330006.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Scorpio,1360668.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Scorpio,1540081.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Scorpio,1663054.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Mahindra,Scorpio,1423710.0,SUV,Diesel,Manual,9.0,2179.0,2.0
+Skoda,Monte Carlo,1425599.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Skoda,Monte Carlo,1269599.0,Sedan,Petrol,Automatic,5.0,1598.0,2.0
+Skoda,Monte Carlo,1299599.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Skoda,Monte Carlo,1139599.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Mahindra,Xuv500,1610180.0,SUV,Petrol,Automatic,7.0,2179.0,2.0
+Mahindra,Xuv500,1418313.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,Xuv500,1539488.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1588943.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,Xuv500,1710118.0,SUV,Diesel,Automatic,7.0,2179.0,2.0
+Mahindra,Xuv500,1716319.0,SUV,Diesel,Manual,7.0,2179.0,6.0
+Mahindra,Xuv500,1837586.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1741319.0,SUV,Diesel,Manual,7.0,2179.0,6.0
+Mahindra,Xuv500,1862586.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1610180.0,SUV,Petrol,Automatic,7.0,2179.0,2.0
+Mahindra,Xuv500,1418313.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,Xuv500,1539488.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1588943.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,Xuv500,1710118.0,SUV,Diesel,Automatic,7.0,2179.0,2.0
+Mahindra,Xuv500,1716319.0,SUV,Diesel,Manual,7.0,2179.0,6.0
+Mahindra,Xuv500,1837586.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1741319.0,SUV,Diesel,Manual,7.0,2179.0,6.0
+Mahindra,Xuv500,1862586.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1852488.0,SUV,Diesel,Manual,7.0,2179.0,6.0
+Mahindra,Xuv500,1973664.0,SUV,Diesel,Automatic,7.0,2179.0,6.0
+Mahindra,Xuv500,1230924.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,E Verito,1293214.0,Sedan,Electric,Automatic,5.0,72.0,2.0
+Mahindra,E Verito,1267208.0,Sedan,Electric,Automatic,5.0,72.0,2.0
+Mahindra,E Verito,1303241.0,Sedan,Electric,Automatic,5.0,72.0,2.0
+Tata,Hexa,1639374.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Tata,Hexa,1929417.0,SUV,Diesel,Manual,6.0,2179.0,6.0
+Tata,Hexa,1912593.0,SUV,Diesel,Automatic,6.0,2179.0,6.0
+Tata,Hexa,1796458.0,SUV,Diesel,Manual,6.0,2179.0,6.0
+Tata,Hexa,1371864.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Tata,Hexa,1531377.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Tata,Hexa,1655587.0,SUV,Diesel,Automatic,7.0,2179.0,2.0
+Toyota,Innova Crysta,1605000.0,MUV,Diesel,Manual,7.0,2393.0,3.0
+Toyota,Innova Crysta,1927000.0,MUV,Diesel,Manual,7.0,2393.0,3.0
+Toyota,Innova Crysta,1610000.0,MUV,Diesel,Manual,8.0,2393.0,3.0
+Toyota,Innova Crysta,1932000.0,MUV,Diesel,Manual,8.0,2393.0,3.0
+Toyota,Innova Crysta,2113000.0,MUV,Diesel,Manual,7.0,2393.0,7.0
+Toyota,Innova Crysta,1620000.0,MUV,Petrol,Automatic,8.0,2694.0,7.0
+Toyota,Innova Crysta,1615000.0,MUV,Petrol,Automatic,7.0,2694.0,7.0
+Toyota,Innova Crysta,2103000.0,MUV,Petrol,Automatic,7.0,2393.0,7.0
+Toyota,Innova Crysta,1807000.0,MUV,Petrol,Manual,7.0,2393.0,3.0
+Toyota,Innova Crysta,1493000.0,MUV,Petrol,Manual,7.0,2755.0,7.0
+Toyota,Innova Crysta,1498000.0,MUV,Petrol,Manual,8.0,2755.0,7.0
+Toyota,Innova Crysta,2097000.0,MUV,Diesel,Manual,7.0,2393.0,3.0
+Toyota,Innova Crysta,1892000.0,MUV,Petrol,Manual,7.0,2393.0,3.0
+Toyota,Innova Crysta,2171000.0,MUV,Petrol,Automatic,7.0,2694.0,7.0
+Toyota,Innova Crysta,1592000.0,MUV,Diesel,Manual,7.0,2393.0,3.0
+Toyota,Innova Crysta,1587000.0,MUV,Diesel,Manual,8.0,2393.0,3.0
+Jeep,Compass,1996000.0,SUV,Petrol,Automatic,5.0,1368.0,2.0
+Jeep,Compass,1560000.0,SUV,Petrol,Manual,5.0,1368.0,2.0
+Jeep,Compass,2055000.0,SUV,Petrol,Automatic,5.0,1368.0,2.0
+Jeep,Compass,1661000.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,1803000.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,1888000.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,1973000.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,2022000.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,2151000.0,SUV,Diesel,Manual,5.0,1956.0,6.0
+Jeep,Compass,2199000.0,SUV,Diesel,Manual,5.0,1956.0,6.0
+Jeep,Compass,2167000.0,SUV,Petrol,Automatic,5.0,1368.0,6.0
+Jeep,Compass,2133000.0,SUV,Diesel,Manual,5.0,1956.0,6.0
+Jeep,Compass,2311000.0,SUV,Diesel,Manual,5.0,1956.0,6.0
+Jeep,Compass,1699000.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,1599000.0,SUV,Petrol,Manual,5.0,1368.0,2.0
+Jeep,Compass,1900000.0,SUV,Petrol,Automatic,5.0,1368.0,2.0
+Jeep,Compass,2070000.0,SUV,Petrol,Automatic,5.0,1368.0,6.0
+Jeep,Compass,2036300.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Jeep,Compass,2214000.0,SUV,Diesel,Manual,5.0,1956.0,6.0
+Jeep,Compass,2499000.0,SUV,Diesel,Automatic,5.0,1956.0,6.0
+Jeep,Compass,2196000.0,SUV,Diesel,Automatic,5.0,1956.0,2.0
+Toyota,Corolla Altis,1645000.0,Sedan,Petrol,Manual,5.0,1798.0,3.0
+Toyota,Corolla Altis,1806000.0,Sedan,Petrol,Automatic,5.0,1798.0,3.0
+Toyota,Corolla Altis,1882000.0,Sedan,Petrol,Manual,5.0,1798.0,7.0
+Toyota,Corolla Altis,1936000.0,Sedan,Diesel,Manual,5.0,1364.0,3.0
+Toyota,Corolla Altis,1771000.0,Sedan,Diesel,Manual,5.0,1364.0,3.0
+Toyota,Corolla Altis,2019000.0,Sedan,Petrol,Automatic,5.0,1798.0,7.0
+Honda,Civic,1793900.0,Sedan,Petrol,Automatic,5.0,1799.0,4.0
+Honda,Civic,1944900.0,Sedan,Petrol,Automatic,5.0,1799.0,4.0
+Honda,Civic,2124900.0,Sedan,Petrol,Automatic,5.0,1799.0,8.0
+Honda,Civic,2054900.0,Sedan,Diesel,Manual,5.0,1597.0,4.0
+Honda,Civic,2234900.0,Sedan,Diesel,Manual,5.0,1597.0,8.0
+Mg,Zs Ev,2088000.0,SUV,Electric,Automatic,5.0,1858.804588607595,6.0
+Mg,Zs Ev,2358000.0,SUV,Electric,Automatic,5.0,1858.804588607595,6.0
+Kia,Carnival,2495000.0,MUV,Diesel,Automatic,7.0,2199.0,2.0
+Kia,Carnival,2515000.0,MUV,Diesel,Automatic,7.0,2199.0,2.0
+Kia,Carnival,2895000.0,MUV,Diesel,Automatic,7.0,2199.0,6.0
+Kia,Carnival,2995000.0,MUV,Diesel,Automatic,7.0,2199.0,6.0
+Kia,Carnival,3395000.0,MUV,Diesel,Automatic,7.0,2199.0,6.0
+Skoda,Superb,2599599.0,Sedan,Petrol,Manual,5.0,1798.0,8.0
+Skoda,Superb,2779599.0,Sedan,Petrol,Automatic,5.0,1798.0,8.0
+Skoda,Superb,3099599.0,Sedan,Petrol,Automatic,5.0,1798.0,8.0
+Skoda,Superb,3349599.0,Sedan,Diesel,Automatic,5.0,1968.0,8.0
+Skoda,Superb,3029599.0,Sedan,Diesel,Automatic,5.0,1968.0,8.0
+Skoda,Superb,2599599.0,Sedan,Petrol,Automatic,5.0,1798.0,8.0
+Skoda,Superb,2849599.0,Sedan,Diesel,Automatic,5.0,1968.0,8.0
+Volvo,V40,2769000.0,Hatchback,Diesel,Automatic,5.0,1984.0,7.0
+Volvo,V40,3191000.0,Hatchback,Diesel,Automatic,5.0,1984.0,7.0
+Toyota,Fortuner,3205000.0,SUV,Diesel,Automatic,7.0,2755.0,7.0
+Toyota,Fortuner,3019000.0,SUV,Diesel,Manual,7.0,2755.0,7.0
+Toyota,Fortuner,3216000.0,SUV,Diesel,Manual,7.0,2755.0,7.0
+Toyota,Fortuner,3395000.0,SUV,Diesel,Automatic,7.0,2755.0,7.0
+Toyota,Fortuner,2977000.0,SUV,Petrol,Automatic,7.0,2694.0,7.0
+Toyota,Fortuner,2818000.0,SUV,Petrol,Manual,7.0,2694.0,7.0
+Toyota,Fortuner,3420000.0,SUV,Diesel,Automatic,7.0,2755.0,7.0
+Ford,Endeavour,3470000.0,SUV,Diesel,Automatic,7.0,3198.0,7.0
+Ford,Endeavour,3233000.0,SUV,Diesel,Automatic,7.0,2198.0,7.0
+Ford,Endeavour,2920000.0,SUV,Diesel,Manual,7.0,2198.0,6.0
+Mini,Cooper 3 Door,2990000.0,Hatchback,Diesel,Automatic,4.0,1496.0,2.0
+Mini,Cooper 3 Door,3420000.0,Hatchback,Petrol,Automatic,5.0,1998.0,2.0
+Skoda,Kodiaq Scout,3399000.0,SUV,Diesel,Automatic,7.0,1968.0,9.0
+Bmw,X1,3520000.0,"Crossover, SUV",Diesel,Automatic,5.0,1995.0,6.0
+Bmw,X1,3930000.0,"SUV, Crossover",Diesel,Automatic,5.0,1995.0,6.0
+Bmw,X1,4570000.0,"SUV, Crossover",Diesel,Automatic,5.0,1995.0,6.0
+Bmw,X1,4240000.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Bmw,X1,3830000.0,"Crossover, SUV",Petrol,Automatic,5.0,1998.0,6.0
+Volvo,S60,5602000.0,Sedan,Petrol,Automatic,5.0,1969.0,6.0
+Volvo,S60,3850500.0,Sedan,Diesel,Automatic,5.0,1984.0,6.0
+Bmw,3-Series,4140000.0,Sedan,Diesel,Automatic,5.0,1995.0,6.0
+Bmw,3-Series,4690000.0,Sedan,Diesel,Automatic,5.0,1995.0,6.0
+Bmw,3-Series,4790000.0,Sedan,Petrol,Automatic,5.0,1998.0,6.0
+Volvo,S60 Cross Country,4426500.0,"Sedan, Crossover",Diesel,Automatic,4.0,2400.0,6.0
+Audi,Q5,5021200.0,SUV,Diesel,Automatic,5.0,1968.0,8.0
+Audi,Q5,5621200.0,SUV,Diesel,Automatic,5.0,1968.0,8.0
+Audi,Q5,5021200.0,SUV,Petrol,Automatic,5.0,1984.0,8.0
+Audi,Q5,5621200.0,SUV,Petrol,Automatic,5.0,1984.0,8.0
+Land Rover Rover,Range Evoque,5494000.0,SUV,Diesel,Automatic,5.0,1999.0,6.0
+Land Rover Rover,Range Evoque,5985000.0,SUV,Diesel,Automatic,5.0,1999.0,6.0
+Land Rover Rover,Range Evoque,5494000.0,SUV,Petrol,Automatic,5.0,1997.0,6.0
+Land Rover Rover,Range Evoque,5985000.0,SUV,Petrol,Automatic,5.0,1997.0,6.0
+,Mercedes-Benz E-Class,5861062.0,Sedan,Petrol,Automatic,5.0,1991.0,7.0
+,Mercedes-Benz E-Class,7285332.0,Sedan,Diesel,Automatic,5.0,2987.0,7.0
+,Mercedes-Benz E-Class,5964321.0,Sedan,Diesel,Automatic,5.0,2987.0,7.0
+,Mercedes-Benz E-Class,15000000.0,Sedan,Petrol,Automatic,4.0,5461.0,6.0
+,Mercedes-Benz E-Class,5750000.0,Sedan,Petrol,Automatic,5.0,1991.0,7.0
+,Mercedes-Benz E-Class,6150000.0,Sedan,Petrol,Automatic,5.0,1991.0,7.0
+,Mercedes-Benz E-Class,5850000.0,Sedan,Diesel,Automatic,5.0,2987.0,7.0
+,Mercedes-Benz E-Class,6250000.0,Sedan,Diesel,Automatic,5.0,2987.0,7.0
+Volvo,Xc60,5990000.0,SUV,Diesel,Automatic,5.0,1969.0,8.0
+Bmw,X4,6060000.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Bmw,X4,6590000.0,SUV,Diesel,Automatic,5.0,2993.0,6.0
+Bmw,X4,6350000.0,SUV,Petrol,Automatic,5.0,1998.0,6.0
+Jeep,Wrangler,6394000.0,SUV,Petrol,Automatic,5.0,1999.0,6.0
+,Mercedes-Benz C-Class Cabriolet,6426497.0,Convertible,Petrol,Automatic,4.0,1991.0,8.0
+Bmw,Z4 Roadster,6490000.0,"Sports, Convertible",Petrol,Automatic,2.0,1998.0,4.0
+Bmw,Z4 Roadster,7890000.0,"Sports, Convertible",Petrol,Automatic,2.0,2998.0,4.0
+,Mercedes-Benz V-Class,6840000.0,MUV,Diesel,Automatic,7.0,2143.0,6.0
+,Mercedes-Benz V-Class,8190000.0,MUV,Diesel,Automatic,6.0,2143.0,6.0
+,Mercedes-Benz V-Class,11000000.0,MPV,Diesel,Automatic,6.0,1950.0,10.0
+Audi,Q7,7221500.0,SUV,Diesel,Automatic,7.0,2967.0,8.0
+Audi,Q7,8021500.0,SUV,Diesel,Automatic,7.0,2967.0,8.0
+Audi,Q7,6921500.0,SUV,Petrol,Automatic,7.0,1984.0,8.0
+Audi,Q7,7621500.0,SUV,Petrol,Automatic,7.0,1984.0,8.0
+Audi,Q7,8111500.0,SUV,Diesel,Automatic,7.0,2967.0,8.0
+Audi,Q7,7711500.0,SUV,Petrol,Automatic,7.0,1984.0,8.0
+Land Rover Rover,Range Evoque Convertible,6952964.0,Convertible,Petrol,Automatic,4.0,1998.0,7.0
+Land Rover Rover,Range Velar,7246802.0,SUV,Diesel,Automatic,5.0,1999.0,6.0
+Land Rover Rover,Range Velar,7246802.0,SUV,Petrol,Automatic,5.0,1997.0,6.0
+,Mercedes-Benz E-Class All Terrain,7500000.0,SUV,Diesel,Automatic,5.0,1950.0,7.0
+Volvo,Xc90,8790000.0,SUV,Diesel,Automatic,7.0,1969.0,6.0
+Volvo,Xc90,8090000.0,SUV,Diesel,Automatic,7.0,1969.0,6.0
+Volvo,Xc90,13124000.0,SUV,Hybrid,Automatic,4.0,1969.0,6.0
+Volvo,Xc90,9665000.0,SUV,Hybrid,Automatic,7.0,1969.0,7.0
+Volvo,Xc90,8491500.0,SUV,Diesel,Automatic,7.0,1969.0,6.0
+Land Rover Rover,Range Sport,20517853.0,SUV,Petrol,Automatic,5.0,4999.0,2.0
+Land Rover Rover,Range Sport,8670586.0,SUV,Petrol,Automatic,7.0,1997.0,8.0
+Land Rover Rover,Range Sport,9448181.0,SUV,Petrol,Automatic,7.0,1997.0,8.0
+Land Rover Rover,Range Sport,11476911.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Land Rover Rover,Range Sport,15600000.0,SUV,Petrol,Automatic,7.0,1997.0,8.0
+Land Rover Rover,Range Sport,13228725.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Land Rover Rover,Range Sport,17940227.0,SUV,Petrol,Automatic,5.0,4999.0,8.0
+Land Rover Rover,Range Sport,10373732.0,SUV,Diesel,Automatic,5.0,2993.0,8.0
+Land Rover Rover,Range Sport,11913021.0,SUV,Diesel,Automatic,5.0,2993.0,8.0
+Land Rover Rover,Range Sport,14908985.0,SUV,Diesel,Automatic,7.0,4367.0,8.0
+Jaguar,Xj,9738609.0,Sedan,Diesel,Automatic,5.0,2993.0,6.0
+Jaguar,Xj,10725145.0,Sedan,Diesel,Automatic,5.0,2993.0,6.0
+Jaguar,Xj,11129599.0,Sedan,Diesel,Automatic,5.0,2993.0,6.0
+Porsche,Cayenne,15806000.0,SUV,Hybrid,Automatic,5.0,2995.0,10.0
+Porsche,Cayenne,19210000.0,SUV,Petrol,Automatic,5.0,3996.0,10.0
+Porsche,Cayenne,11936000.0,SUV,Petrol,Automatic,5.0,2995.0,10.0
+Maserati,Ghibli,13387856.0,Unknown,Diesel,Automatic,5.0,2987.0,2.0
+Maserati,Ghibli,13881858.0,Unknown,Diesel,Automatic,5.0,2987.0,2.0
+Maserati,Ghibli,14247814.0,Unknown,Diesel,Automatic,5.0,2987.0,2.0
+Toyota,Land Cruiser,14699000.0,SUV,Diesel,Automatic,7.0,4461.0,8.0
+Audi,Rs7,17072000.0,"Sedan, Coupe",Petrol,Automatic,4.0,3993.0,8.0
+Land Rover Rover,Range,26037526.0,SUV,Petrol,Automatic,7.0,4999.0,10.0
+Land Rover Rover,Range,32522000.0,SUV,Petrol,Automatic,5.0,4999.0,8.0
+Land Rover Rover,Range,19527130.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Land Rover Rover,Range,40499548.0,SUV,Petrol,Automatic,5.0,4999.0,8.0
+Land Rover Rover,Range,18185267.0,SUV,Diesel,Automatic,5.0,2993.0,8.0
+Land Rover Rover,Range,19527130.0,SUV,Diesel,Automatic,7.0,2993.0,8.0
+Land Rover Rover,Range,25174051.0,SUV,Diesel,Automatic,7.0,4367.0,8.0
+Land Rover Rover,Range,39294685.0,SUV,Diesel,Automatic,4.0,4367.0,8.0
+Land Rover Rover,Range,23675691.0,SUV,Diesel,Automatic,7.0,4367.0,8.0
+Land Rover Rover,Range,21398758.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Maserati,Grancabrio,19865675.0,Convertible,Petrol,Automatic,4.0,4691.0,4.0
+,Mercedes-Benz Amg-Gt,21583466.0,Coupe,Petrol,Automatic,2.0,3982.0,8.0
+,Mercedes-Benz Amg-Gt,23264134.0,Coupe,Petrol,Automatic,2.0,3982.0,8.0
+,Mercedes-Benz Amg-Gt,22733626.0,Coupe,Petrol,Automatic,2.0,3982.0,8.0
+,Mercedes-Benz Amg Gt 4-Door Coupe,24200000.0,Coupe,Petrol,Automatic,4.0,1858.804588607595,2.0
+Lamborghini,Huracan,37133704.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,32452486.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,35150732.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,37614126.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,35535000.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,40742932.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,37300000.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,41000000.0,Convertible,Petrol,Automatic,2.0,5204.0,4.0
+Lamborghini,Huracan,32200000.0,Coupe,Petrol,Automatic,2.0,5204.0,4.0
+Ferrari,488 Gtb,36761413.0,Coupe,Petrol,Automatic,2.0,3902.0,4.0
+Ferrari,488 Gtb,39319552.0,Coupe,Petrol,Automatic,2.0,3902.0,4.0
+Ferrari,Gtc4 Lusso,42000000.0,Coupe,Petrol,Automatic,4.0,3900.0,4.0
+Ferrari,Gtc4 Lusso,52000000.0,Coupe,Petrol,Automatic,4.0,6262.0,4.0
+Lamborghini,Aventador,47893943.0,Convertible,Petrol,Automatic,2.0,6498.0,6.0
+Lamborghini,Aventador,53210327.0,Convertible,Petrol,Automatic,2.0,6498.0,6.0
+Lamborghini,Aventador,47467700.0,Coupe,Petrol,Automatic,2.0,6498.0,6.0
+,Rolls-Royce Dawn,59216193.0,Convertible,Petrol,Automatic,4.0,6598.0,8.0
+,Rolls-Royce Drophead Coupe,83755383.0,Convertible,Petrol,Automatic,4.0,6749.0,6.0
+Maruti Suzuki,Omni,282778.0,MPV,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Omni,284485.0,MPV,Petrol,Manual,8.0,796.0,2.0
+,Go+,412292.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,552656.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,574448.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,555196.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,500575.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,593361.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,615153.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,658361.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+,Go+,680153.0,MPV,Petrol,Manual,7.0,1198.0,2.0
+Fiat,Punto Evo Pure,482330.0,Hatchback,Petrol,Manual,5.0,1172.0,2.0
+Fiat,Punto Evo Pure,575947.0,Hatchback,Diesel,Manual,5.0,1248.0,1.0
+Ford,Figo,523000.0,Hatchback,Petrol,Manual,5.0,1194.0,2.0
+Ford,Figo,623000.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Ford,Figo,599900.0,Hatchback,Petrol,Manual,5.0,1196.0,2.0
+Ford,Figo,699900.0,Hatchback,Diesel,Manual,5.0,1498.0,2.0
+Ford,Figo,664900.0,Hatchback,Petrol,Manual,5.0,1194.0,6.0
+Ford,Figo,764900.0,Hatchback,Diesel,Manual,5.0,1498.0,6.0
+Maruti Suzuki,Baleno,746621.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Baleno,868221.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Baleno,668611.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Baleno,807921.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Baleno,758212.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,890212.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,636612.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,768612.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,558602.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,697912.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,733412.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,789912.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki,Baleno,829912.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Grand I10,586428.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10,620637.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10,652328.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Grand I10,705538.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Grand I10,640537.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10,653452.0,Hatchback,CNG,Manual,5.0,1197.0,2.0
+Fiat,Linea Classic,751203.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Linea Classic,646336.0,Sedan,Petrol,Manual,5.0,1368.0,2.0
+Fiat,Linea Classic,808558.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Nissan,Sunny,707025.0,Sedan,Petrol,Manual,5.0,1498.0,1.0
+Nissan,Sunny,836461.0,Sedan,Petrol,Manual,5.0,1498.0,1.0
+Nissan,Sunny,912534.0,Sedan,Diesel,Manual,5.0,1461.0,1.0
+Nissan,Sunny,993997.0,Sedan,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Sunny,860997.0,Sedan,Diesel,Manual,5.0,1461.0,1.0
+Nissan,Sunny,993997.0,Sedan,Petrol,Automatic,5.0,1498.0,2.0
+Nissan,Sunny,877285.0,Sedan,Diesel,Manual,5.0,1461.0,2.0
+Maruti Suzuki,Ertiga,759000.0,MPV,Petrol,Manual,7.0,1462.0,2.0
+Maruti Suzuki,Ertiga,917000.0,MPV,Petrol,Manual,7.0,1462.0,2.0
+Maruti Suzuki,Ertiga,936000.0,MUV,Petrol,Automatic,7.0,1462.0,2.0
+Maruti Suzuki,Ertiga,971000.0,MUV,Petrol,Manual,7.0,1462.0,2.0
+Maruti Suzuki,Ertiga,834000.0,MUV,Petrol,Manual,7.0,1462.0,2.0
+Maruti Suzuki,Ertiga,1013000.0,MPV,Petrol,Automatic,7.0,1462.0,2.0
+Maruti Suzuki,Ertiga,986689.0,MPV,Diesel,Manual,7.0,1498.0,2.0
+Maruti Suzuki,Ertiga,1069689.0,MPV,Diesel,Manual,7.0,1498.0,2.0
+Maruti Suzuki,Ertiga,1120689.0,MPV,Diesel,Manual,7.0,1498.0,2.0
+Maruti Suzuki,Ertiga,887689.0,MUV,CNG + Petrol,Manual,7.0,1462.0,2.0
+Maruti Suzuki,Baleno Rs,788913.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Honda,Wr-V,1035000.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Honda,Wr-V,925000.0,SUV,Petrol,Manual,5.0,1199.0,2.0
+Honda,Wr-V,925000.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Honda,Wr-V,815000.0,SUV,Petrol,Manual,5.0,1199.0,2.0
+Honda,Wr-V,916050.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Honda,Wr-V,808050.0,SUV,Petrol,Manual,5.0,1199.0,2.0
+Honda,Wr-V,1048050.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Honda,Wr-V,935050.0,SUV,Petrol,Manual,5.0,1199.0,2.0
+Honda,Wr-V,995000.0,SUV,Diesel,Manual,5.0,1498.0,2.0
+Mahindra,Tuv300,854328.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Tuv300,914328.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Tuv300,976592.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Tuv300,999614.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Tuv300,1031943.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Tuv300,1022930.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Tuv300,1055259.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Maruti Suzuki,S-Cross,880689.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,S-Cross,992689.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,S-Cross,1043689.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,S-Cross,1143689.0,Crossover,Diesel,Manual,5.0,1248.0,2.0
+Renault,Captur,949999.0,SUV,Petrol,Manual,5.0,1498.0,2.0
+Renault,Captur,1049999.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Renault,Captur,1299999.0,SUV,Diesel,Manual,5.0,1461.0,4.0
+Renault,Captur,1199999.0,SUV,Petrol,Manual,5.0,1498.0,2.0
+Mahindra,Xylo,963037.0,SUV,Diesel,Manual,7.0,2489.0,2.0
+Mahindra,Xylo,1004487.0,SUV,Diesel,Manual,7.0,2489.0,2.0
+Mahindra,Xylo,1031951.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,Xylo,1066139.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mahindra,Xylo,1228335.0,SUV,Diesel,Manual,8.0,2179.0,2.0
+Kia,Seltos,989000.0,SUV,Petrol,Manual,5.0,1497.0,2.0
+Kia,Seltos,1029000.0,SUV,Petrol,Manual,5.0,1497.0,2.0
+Kia,Seltos,1149000.0,SUV,Petrol,Manual,5.0,1497.0,4.0
+Kia,Seltos,1309000.0,SUV,Petrol,Manual,5.0,1497.0,2.0
+Kia,Seltos,1409000.0,SUV,Petrol,Automatic,5.0,1497.0,4.0
+Kia,Seltos,1034000.0,SUV,Diesel,Manual,5.0,1493.0,2.0
+Kia,Seltos,1154000.0,SUV,Diesel,Manual,5.0,1493.0,2.0
+Kia,Seltos,1254000.0,SUV,Diesel,Manual,5.0,1493.0,4.0
+Kia,Seltos,1354000.0,SUV,Diesel,Automatic,5.0,1493.0,4.0
+Kia,Seltos,1534000.0,SUV,Diesel,Manual,5.0,1493.0,4.0
+Kia,Seltos,1634000.0,SUV,Diesel,Automatic,5.0,1493.0,4.0
+Kia,Seltos,1379000.0,SUV,Petrol,Manual,5.0,1353.0,2.0
+Kia,Seltos,1529000.0,SUV,Petrol,Manual,5.0,1353.0,4.0
+Kia,Seltos,1629000.0,SUV,Petrol,DCT,5.0,1353.0,4.0
+Kia,Seltos,1629000.0,SUV,Petrol,Manual,5.0,1353.0,4.0
+Kia,Seltos,1414000.0,SUV,Diesel,Manual,5.0,1493.0,4.0
+Nissan,Terrano,999900.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Terrano,1464900.0,SUV,Diesel,Automatic,5.0,1461.0,2.0
+Nissan,Terrano,999900.0,SUV,Petrol,Manual,5.0,1598.0,2.0
+Nissan,Terrano,1235700.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Terrano,1419900.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Terrano,1235700.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Tata,Safari Storme,1109005.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Tata,Safari Storme,1335158.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Tata,Safari Storme,1479574.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Tata,Safari Storme,1643829.0,SUV,Diesel,Manual,7.0,2179.0,2.0
+Mg,Hector,1248000.0,SUV,Petrol,Manual,5.0,1500.0,2.0
+Mg,Hector,1348000.0,SUV,Diesel,Manual,5.0,2000.0,2.0
+Mg,Hector,1448000.0,SUV,Diesel,Manual,5.0,2000.0,2.0
+Mg,Hector,1588000.0,SUV,Diesel,Manual,5.0,2000.0,6.0
+Mg,Hector,1728000.0,SUV,Diesel,Manual,5.0,2000.0,6.0
+Mg,Hector,1328000.0,SUV,Petrol,Manual,5.0,1500.0,2.0
+Mg,Hector,1388000.0,SUV,Hybrid,Manual,5.0,1500.0,2.0
+Mg,Hector,1628000.0,SUV,Hybrid,Manual,5.0,1500.0,6.0
+Mg,Hector,1498000.0,SUV,Hybrid,Manual,5.0,1500.0,6.0
+Mg,Hector,1568000.0,SUV,Petrol,DCT,5.0,1500.0,6.0
+Mg,Hector,1718000.0,SUV,Petrol,DCT,5.0,1500.0,6.0
+Tata,Nexon Ev,1399000.0,SUV,Electric,Automatic,5.0,1858.804588607595,2.0
+Tata,Nexon Ev,1499000.0,SUV,Electric,Automatic,5.0,1858.804588607595,2.0
+Tata,Nexon Ev,1599000.0,SUV,Electric,Automatic,5.0,1858.804588607595,2.0
+Hyundai,Elantra,1589000.0,Sedan,Petrol,Manual,5.0,1999.0,6.0
+Hyundai,Elantra,1849000.0,Sedan,Petrol,Manual,5.0,1999.0,6.0
+Hyundai,Elantra,1949000.0,Sedan,Petrol,AMT,5.0,1999.0,6.0
+Hyundai,Elantra,2039000.0,Sedan,Petrol,AMT,5.0,1999.0,6.0
+Hyundai,Tucson,2079717.0,SUV,Diesel,Manual,5.0,1995.0,2.0
+Hyundai,Tucson,1876656.0,SUV,Petrol,Manual,5.0,1999.0,2.0
+Hyundai,Tucson,2364354.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Hyundai,Tucson,2187384.0,SUV,Petrol,Automatic,5.0,1999.0,6.0
+Hyundai,Tucson,2697417.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Hyundai,Tucson,2373522.0,SUV,Petrol,Automatic,5.0,1999.0,6.0
+Hyundai,Tucson,2246749.0,SUV,Petrol,Automatic,5.0,1999.0,6.0
+Hyundai,Tucson,2423720.0,SUV,Diesel,Automatic,5.0,1995.0,6.0
+Volkswagen,Passat,3021500.0,Sedan,Diesel,Automatic,5.0,1968.0,9.0
+Volkswagen,Passat,3321500.0,Sedan,Diesel,Automatic,5.0,1968.0,9.0
+Volkswagen,Passat,2599000.0,Sedan,Diesel,Automatic,5.0,1968.0,9.0
+Volkswagen,Passat,2899000.0,Sedan,Diesel,Automatic,5.0,1968.0,9.0
+,Mercedes-Benz A-Class,2785288.0,Hatchback,Petrol,Automatic,5.0,1595.0,8.0
+,Mercedes-Benz A-Class,2886871.0,Hatchback,Diesel,Automatic,5.0,2143.0,8.0
+Volvo,V40 Cross Country,3283000.0,Hatchback,Diesel,Automatic,5.0,1984.0,7.0
+Volvo,V40 Cross Country,2962000.0,Hatchback,Petrol,Automatic,5.0,1596.0,7.0
+Mini,Countryman,3490000.0,Hatchback,Petrol,Automatic,5.0,1998.0,6.0
+Mini,Countryman,3740000.0,Hatchback,Diesel,Automatic,5.0,1998.0,6.0
+Mini,Countryman,4140000.0,Hatchback,Petrol,Automatic,5.0,1998.0,6.0
+Mini,Countryman,4240000.0,Hatchback,Petrol,Automatic,5.0,1998.0,6.0
+,Mercedes-Benz C-Class,4020000.0,Sedan,Diesel,Automatic,5.0,1950.0,7.0
+,Mercedes-Benz C-Class,4670000.0,Sedan,Diesel,Automatic,5.0,1950.0,7.0
+,Mercedes-Benz C-Class,4974750.0,Sedan,Diesel,Automatic,5.0,1950.0,7.0
+,Mercedes-Benz C-Class,7500000.0,Coupe,Petrol,Automatic,5.0,3982.0,7.0
+,Mercedes-Benz C-Class,4090000.0,Sedan,Petrol,Automatic,5.0,1497.0,7.0
+,Mercedes-Benz C-Class,4654000.0,Sedan,Petrol,Automatic,5.0,1497.0,7.0
+Toyota,Prius,4509000.0,Sedan,Hybrid,Automatic,5.0,1798.0,7.0
+Lexus,Es,5695000.0,Sedan,Hybrid,Automatic,5.0,2487.0,10.0
+Lexus,Nx 300H,6060000.0,SUV,Petrol,Automatic,5.0,2494.0,8.0
+Lexus,Nx 300H,5990000.0,SUV,Petrol,Automatic,5.0,2494.0,8.0
+Jaguar,F-Pace,6463780.0,SUV,Diesel,Automatic,5.0,1999.0,6.0
+Jaguar,F-Pace,6422809.0,SUV,Petrol,Automatic,5.0,1997.0,6.0
+Volvo,V90 Cross Country,6531000.0,SUV,Diesel,Automatic,5.0,1969.0,6.0
+Audi,A5 Cabriolet,6948200.0,Convertible,Diesel,Automatic,4.0,1968.0,4.0
+,Mercedes-Benz Gle,7370000.0,SUV,Diesel,Automatic,5.0,1950.0,7.0
+,Mercedes-Benz Gle,12500000.0,SUV,Diesel,Automatic,5.0,2925.0,7.0
+,Mercedes-Benz Cls,8470000.0,Sedan,Diesel,Automatic,5.0,1950.0,7.0
+Bmw,X7,10490000.0,SUV,Petrol,Automatic,7.0,2998.0,9.0
+Bmw,X7,10250000.0,SUV,Diesel,Automatic,7.0,2993.0,9.0
+Bmw,M4,13590000.0,Coupe,Petrol,Automatic,4.0,2979.0,10.0
+Porsche,911,17420000.0,Coupe,Petrol,Automatic,4.0,2981.0,4.0
+Porsche,911,18844000.0,Convertible,Petrol,Automatic,4.0,2981.0,4.0
+Nissan,Gtr,21240272.0,Coupe,Petrol,Automatic,4.0,3799.0,6.0
+Aston Martin,Vantage,29500000.0,Coupe,Petrol,Automatic,2.0,3982.0,6.0
+Aston Martin,Rapide,38845823.0,Sedan,Petrol,Automatic,4.0,5935.0,8.0
+Ferrari,812 Superfast,52000000.0,Coupe,Petrol,Automatic,2.0,6496.0,4.0
+Maruti Suzuki,Alto 800 Tour,354235.0,Hatchback,Petrol,Manual,5.0,796.0,2.0
+Maruti Suzuki,Alto 800 Tour,356559.0,Hatchback,Petrol,Manual,5.0,796.0,1.0
+Hyundai,Grand I10 Nios,675090.0,Hatchback,Diesel,Manual,5.0,1186.0,2.0
+Hyundai,Grand I10 Nios,504990.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,589610.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,642610.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,643350.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,703350.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,673350.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,718950.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Grand I10 Nios,790350.0,Hatchback,Diesel,Automatic,5.0,1186.0,2.0
+Hyundai,Grand I10 Nios,804450.0,Hatchback,Diesel,Manual,5.0,1186.0,2.0
+Hyundai,Xcent,643769.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent,733734.0,Sedan,Petrol,Automatic,5.0,1197.0,2.0
+Hyundai,Xcent,705546.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent,782346.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent,742033.0,Sedan,Diesel,Manual,5.0,1120.0,2.0
+Hyundai,Xcent,581078.0,Sedan,Petrol,Manual,5.0,1197.0,2.0
+Hyundai,Xcent,798558.0,Sedan,Diesel,Manual,5.0,1120.0,2.0
+Hyundai,Xcent,875358.0,Sedan,Diesel,Manual,5.0,1120.0,2.0
+Hyundai,Xcent,673261.0,Sedan,Diesel,Manual,5.0,1197.0,2.0
+Nissan,Micra,662880.0,Hatchback,Petrol,Automatic,5.0,1198.0,2.0
+Nissan,Micra,781686.0,Hatchback,Petrol,Automatic,5.0,1198.0,2.0
+Nissan,Micra,743504.0,Hatchback,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Micra,812964.0,Hatchback,Diesel,Manual,5.0,1461.0,2.0
+Mahindra,Bolero,942263.0,SUV,Diesel,Manual,7.0,2523.0,2.0
+Mahindra,Bolero,917055.0,SUV,Diesel,Manual,7.0,2523.0,2.0
+Mahindra,Bolero,860720.0,SUV,Diesel,Manual,7.0,2523.0,2.0
+Mahindra,Bolero,815883.0,SUV,Diesel,Manual,7.0,2523.0,2.0
+Mahindra,Bolero,773678.0,SUV,Diesel,Manual,7.0,2523.0,2.0
+Maruti Suzuki,Ciaz,1102689.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Ciaz,919689.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Ciaz,980689.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Ciaz,1062689.0,Sedan,Diesel,Manual,5.0,1248.0,2.0
+Maruti Suzuki,Ciaz,819689.0,Sedan,Petrol,Manual,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,881689.0,Sedan,Petrol,Manual,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,958689.0,Sedan,Petrol,Manual,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,997689.0,Sedan,Petrol,Manual,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,980689.0,Sedan,Petrol,Automatic,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,1058688.0,Sedan,Petrol,Automatic,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,1098689.0,Sedan,Petrol,Automatic,5.0,1462.0,2.0
+Maruti Suzuki,Ciaz,1138189.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Maruti Suzuki,Ciaz,997689.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Maruti Suzuki,Ciaz,1109189.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Skoda,Rapid,998599.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Skoda,Rapid,1006139.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Skoda,Rapid,881916.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Skoda,Rapid,1129599.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Skoda,Rapid,1249599.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Skoda,Rapid,1243599.0,Sedan,Petrol,Automatic,5.0,1598.0,2.0
+Skoda,Rapid,1399599.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Skoda,Rapid,1273599.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Skoda,Rapid,1115599.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Skoda,Rapid,999599.0,Sedan,Petrol,Automatic,5.0,1598.0,2.0
+Skoda,Rapid,975599.0,Sedan,Petrol,Manual,5.0,1598.0,2.0
+Skoda,Rapid,1099599.0,Sedan,Petrol,Automatic,5.0,1598.0,2.0
+Skoda,Rapid,1158599.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Skoda,Rapid,1273599.0,Sedan,Diesel,Automatic,5.0,1498.0,2.0
+Fiat,Abarth Punto,980970.0,Hatchback,Petrol,Manual,5.0,1368.0,2.0
+Hyundai,Creta,999990.0,SUV,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Creta,999990.0,SUV,Petrol,Manual,5.0,1591.0,2.0
+Hyundai,Creta,1232534.0,SUV,Petrol,Manual,5.0,1591.0,2.0
+Hyundai,Creta,1394437.0,SUV,Petrol,Manual,5.0,1591.0,6.0
+Hyundai,Creta,1377363.0,SUV,Petrol,Automatic,5.0,1591.0,2.0
+Hyundai,Creta,1287041.0,SUV,Petrol,Automatic,5.0,1591.0,2.0
+Hyundai,Creta,1197919.0,SUV,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Creta,1366797.0,SUV,Diesel,Manual,5.0,1582.0,2.0
+Hyundai,Creta,1543564.0,SUV,Diesel,Manual,5.0,1582.0,6.0
+Hyundai,Creta,1527395.0,SUV,Diesel,Automatic,5.0,1582.0,2.0
+Hyundai,Creta,1421208.0,SUV,Diesel,Manual,5.0,1582.0,2.0
+Hyundai,Creta,1336033.0,SUV,Diesel,Automatic,5.0,1582.0,2.0
+Hyundai,Creta,1422937.0,SUV,Petrol,Manual,5.0,1591.0,6.0
+Hyundai,Creta,1572064.0,SUV,Diesel,Manual,5.0,1582.0,6.0
+Hyundai,Creta,1107167.0,SUV,Diesel,Manual,5.0,1396.0,2.0
+Hyundai,Creta,1092192.0,SUV,Petrol,Manual,5.0,1591.0,2.0
+Hyundai,Creta,1279983.0,SUV,Petrol,Manual,5.0,1591.0,2.0
+Hyundai,Creta,1414247.0,SUV,Diesel,Manual,5.0,1582.0,2.0
+Tata,Harrier,1345363.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Tata,Harrier,1471368.0,SUV,Diesel,Manual,5.0,1956.0,2.0
+Tata,Harrier,1591368.0,Hatchback,Diesel,Manual,5.0,1956.0,2.0
+Tata,Harrier,1721368.0,Hatchback,Diesel,Manual,5.0,1956.0,2.0
+Tata,Harrier,1732231.0,Hatchback,Diesel,Manual,5.0,1956.0,2.0
+Tata,Harrier,1730755.0,Hatchback,Diesel,Manual,5.0,1956.0,2.0
+Isuzu,Dmax V-Cross,1654783.0,Pick-up,Diesel,Manual,5.0,2499.0,2.0
+Isuzu,Dmax V-Cross,1806813.0,Pick-up,Diesel,Manual,5.0,2499.0,2.0
+Isuzu,Dmax V-Cross,1999000.0,Pick-up,Diesel,Automatic,5.0,1898.0,6.0
+Mitsubishi,Outlander,2693000.0,SUV,Petrol,Automatic,7.0,2360.0,7.0
+,Mercedes-Benz Gla-Class,3438000.0,SUV,Petrol,Automatic,5.0,1991.0,6.0
+,Mercedes-Benz Gla-Class,3233000.0,SUV,Diesel,Automatic,5.0,2143.0,6.0
+,Mercedes-Benz Gla-Class,3564000.0,SUV,Diesel,Automatic,5.0,2143.0,6.0
+,Mercedes-Benz Gla-Class,7784944.0,SUV,Petrol,Automatic,5.0,1991.0,6.0
+,Mercedes-Benz Gla-Class,3864000.0,SUV,Diesel,Automatic,5.0,2143.0,6.0
+,Mercedes-Benz Gla-Class,8067000.0,SUV,Petrol,Automatic,5.0,1991.0,6.0
+Honda,Accord Hybrid,4321237.0,Sedan,Hybrid,Automatic,5.0,1993.0,6.0
+Bmw,5-Series,5930000.0,Sedan,Diesel,Automatic,5.0,1995.0,8.0
+Bmw,5-Series,6680000.0,Sedan,Diesel,Automatic,5.0,2993.0,8.0
+Bmw,5-Series,5980000.0,Sedan,Petrol,Automatic,5.0,1998.0,8.0
+Bmw,6-Series,6890000.0,Sedan,Diesel,Automatic,4.0,2993.0,6.0
+Bmw,6-Series,7450000.0,Sedan,Diesel,Automatic,4.0,2993.0,6.0
+Bmw,6-Series,6440000.0,Coupe,Petrol,Automatic,4.0,4395.0,6.0
+Bmw,6-Series,6440000.0,Sedan,Diesel,Automatic,4.0,1995.0,8.0
+Porsche,Macan,8503000.0,SUV,Petrol,Automatic,5.0,2995.0,6.0
+Porsche,Macan,6998000.0,SUV,Petrol,Automatic,5.0,1984.0,8.0
+Jaguar,F-Type,23659454.0,Convertible,Petrol,Automatic,5.0,5000.0,2.0
+Jaguar,F-Type,22155390.0,Coupe,Petrol,Automatic,2.0,5000.0,2.0
+Jaguar,F-Type,26501830.0,Coupe,Petrol,Automatic,2.0,5000.0,6.0
+Jaguar,F-Type,28004965.0,Convertible,Petrol,Automatic,2.0,5000.0,6.0
+Jaguar,F-Type,9092578.0,Coupe,Petrol,Automatic,2.0,1997.0,2.0
+Jaguar,F-Type,10144987.0,Convertible,Petrol,Automatic,2.0,1997.0,2.0
+Jaguar,F-Type,10419200.0,Convertible,Petrol,Automatic,2.0,1997.0,2.0
+Jaguar,F-Type,9366433.0,Coupe,Petrol,Automatic,2.0,1997.0,2.0
+Bmw,M5,15490000.0,Sedan,Petrol,Automatic,4.0,4395.0,9.0
+Lexus,Lx 570,23290000.0,SUV,Diesel,Automatic,7.0,5700.0,10.0
+Ferrari,458 Spider,43367500.0,"Coupe, Convertible",Petrol,Automatic,2.0,3902.0,2.0
+Maruti Suzuki R,Wagon,479000.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki R,Wagon,526000.0,Hatchback,Petrol,Automatic,5.0,998.0,1.0
+Maruti Suzuki R,Wagon,548000.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki R,Wagon,434000.0,Hatchback,Petrol,Manual,5.0,998.0,1.0
+Maruti Suzuki R,Wagon,513501.0,Hatchback,Petrol,Manual,5.0,1197.0,1.0
+Maruti Suzuki R,Wagon,560500.0,Hatchback,Petrol,Automatic,5.0,1197.0,1.0
+Maruti Suzuki R,Wagon,594800.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki R,Wagon,441000.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki R,Wagon,486001.0,Hatchback,Petrol,Manual,5.0,998.0,2.0
+Maruti Suzuki R,Wagon,520500.0,Hatchback,Petrol,Manual,5.0,1197.0,2.0
+Maruti Suzuki R,Wagon,567500.0,Hatchback,Petrol,Automatic,5.0,1197.0,2.0
+Maruti Suzuki R,Wagon,533000.0,Hatchback,Petrol,Automatic,5.0,998.0,2.0
+Maruti Suzuki R,Wagon,500500.0,Hatchback,CNG,Manual,5.0,998.0,1.0
+Maruti Suzuki R,Wagon,507500.0,Hatchback,CNG,Manual,5.0,998.0,2.0
+Tata,Tiago Nrg,594993.0,Crossover,Petrol,Manual,5.0,1199.0,2.0
+Tata,Tiago Nrg,689993.0,Crossover,Diesel,Manual,5.0,1047.0,2.0
+Tata,Tiago Nrg,639993.0,Crossover,Petrol,AMT,5.0,1199.0,2.0
+Mahindra,Nuvosport,797802.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Nuvosport,905642.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Nuvosport,984818.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Nuvosport,832415.0,SUV,Diesel,Manual,7.0,1493.0,2.0
+Mahindra,Nuvosport,972359.0,SUV,Diesel,Automatic,7.0,1493.0,2.0
+Mahindra,Nuvosport,1048603.0,SUV,Diesel,Automatic,7.0,1493.0,2.0
+Nissan,Kicks,955000.0,SUV,Petrol,Manual,5.0,1498.0,2.0
+Nissan,Kicks,1095000.0,SUV,Petrol,Manual,5.0,1498.0,2.0
+Nissan,Kicks,1109000.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Kicks,1251000.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Kicks,1369000.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Kicks,1465000.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Nissan,Kicks,1465000.0,SUV,Diesel,Manual,5.0,1461.0,7.0
+Nissan,Kicks,989000.0,SUV,Diesel,Manual,5.0,1461.0,2.0
+Tata,Winger,1205000.0,MUV,Diesel,Manual,16.0,2200.0,2.0
+Hyundai,Kona Electric,2371858.0,SUV,Electric,Automatic,4.0,1858.804588607595,6.0
+Toyota,Camry,3788000.0,Sedan,Hybrid,Automatic,5.0,2487.0,9.0
+Audi,A5,6061200.0,Sedan,Diesel,Automatic,5.0,1968.0,6.0
+Land Rover,Discovery,10205494.0,SUV,Diesel,Automatic,7.0,2993.0,8.0
+Land Rover,Discovery,9689321.0,SUV,Diesel,Automatic,7.0,2993.0,8.0
+Land Rover,Discovery,8433741.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Land Rover,Discovery,8077550.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Land Rover,Discovery,8877094.0,SUV,Diesel,Automatic,7.0,2993.0,8.0
+Land Rover,Discovery,7693664.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Land Rover,Discovery,10861088.0,SUV,Diesel,Automatic,7.0,2993.0,8.0
+Land Rover,Discovery,8937846.0,SUV,Petrol,Automatic,7.0,2995.0,8.0
+Lexus,Ls 500H,18221000.0,SUV,Hybrid,Automatic,5.0,3456.0,14.0
+Lexus,Ls 500H,18736000.0,SUV,Hybrid,Automatic,5.0,3456.0,14.0
+Lexus,Ls 500H,19371000.0,SUV,Hybrid,Automatic,5.0,3456.0,14.0
+,Rolls-Royce Phantom,95000000.0,Sedan,Petrol,Automatic,5.0,6749.0,6.0
+,Rolls-Royce Phantom,75400000.0,Sedan,Petrol,Automatic,5.0,6749.0,6.0
+Fiat,Punto Evo,535562.0,Hatchback,Petrol,Manual,5.0,1172.0,2.0
+Fiat,Punto Evo,631292.0,Hatchback,Diesel,Manual,5.0,1172.0,1.0
+Fiat,Punto Evo,692655.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Fiat,Punto Evo,747774.0,Hatchback,Diesel,Manual,5.0,1248.0,2.0
+Toyota,Yaris,940000.0,Sedan,Petrol,Manual,5.0,1496.0,7.0
+Toyota,Yaris,1055000.0,Sedan,Petrol,Manual,5.0,1496.0,7.0
+Toyota,Yaris,1174000.0,Sedan,Petrol,Manual,5.0,1498.0,7.0
+Toyota,Yaris,1418000.0,Sedan,Petrol,Automatic,5.0,1496.0,7.0
+Toyota,Yaris,1175000.0,Sedan,Petrol,Automatic,5.0,1496.0,7.0
+Toyota,Yaris,1010000.0,Sedan,Petrol,Automatic,5.0,1496.0,7.0
+Toyota,Yaris,1294000.0,Sedan,Petrol,Automatic,5.0,1496.0,7.0
+Toyota,Yaris,1296000.0,Sedan,Petrol,Manual,5.0,1496.0,7.0
+Toyota,Yaris,1197000.0,Sedan,Petrol,Manual,5.0,1498.0,7.0
+Toyota,Yaris,876000.0,Sedan,Petrol,Manual,5.0,1496.0,3.0
+Toyota,Yaris,974000.0,Sedan,Petrol,Manual,5.0,1496.0,3.0
+Toyota,Yaris,935000.0,Sedan,Petrol,Automatic,5.0,1496.0,3.0
+Toyota,Yaris,1083000.0,Sedan,Petrol,Automatic,5.0,1496.0,3.0
+Toyota,Yaris,1317000.0,Sedan,Petrol,Automatic,5.0,1498.0,7.0
+Skoda,Octavia,1599599.0,Sedan,Petrol,Manual,5.0,1395.0,4.0
+Skoda,Octavia,1799599.0,Sedan,Diesel,Manual,5.0,1968.0,4.0
+Skoda,Octavia,1899599.0,Sedan,Petrol,Manual,5.0,1395.0,6.0
+Skoda,Octavia,2059599.0,Sedan,Petrol,Automatic,5.0,1798.0,6.0
+Skoda,Octavia,2079599.0,Sedan,Diesel,Manual,5.0,1968.0,6.0
+Skoda,Octavia,2299599.0,Sedan,Diesel,Automatic,5.0,1968.0,6.0
+Skoda,Octavia,2359599.0,Sedan,Petrol,Automatic,5.0,1798.0,6.0
+Skoda,Octavia,2359599.0,Sedan,Diesel,Automatic,5.0,1968.0,6.0
+Skoda,Octavia,1549000.0,Sedan,Petrol,Manual,5.0,1395.0,6.0
+Skoda,Octavia,1699000.0,Sedan,Diesel,Manual,5.0,1968.0,6.0
+Skoda,Octavia,1999599.0,Sedan,Petrol,Automatic,5.0,1798.0,6.0
+Skoda,Octavia,2199599.0,Sedan,Diesel,Automatic,5.0,1968.0,6.0
+,Mercedes-Benz Glc,5275000.0,SUV,Petrol,Automatic,5.0,1991.0,7.0
+,Mercedes-Benz Glc,5775000.0,SUV,Diesel,Automatic,5.0,1950.0,7.0
+Porsche,Cayenne Coupe,13151000.0,Unknown,Petrol,Automatic,5.0,2995.0,10.0
+Porsche,Cayenne Coupe,19763000.0,Unknown,Petrol,Automatic,5.0,2995.0,10.0
+Mahindra,Verito,748370.0,Sedan,Diesel,Manual,5.0,1461.0,2.0
+Mahindra,Verito,772617.0,Sedan,Diesel,Manual,5.0,1461.0,2.0
+Mahindra,Verito,845154.0,Sedan,Diesel,Manual,5.0,1461.0,2.0
+Mitsubishi,Pajero Sport,2903750.0,SUV,Diesel,Manual,7.0,2477.0,2.0
+Mitsubishi,Pajero Sport,2835500.0,SUV,Diesel,Automatic,7.0,2477.0,2.0
+Mitsubishi,Pajero Sport,2953240.0,SUV,Diesel,Manual,7.0,2477.0,2.0
+Mitsubishi,Pajero Sport,2992800.0,SUV,Diesel,Manual,7.0,2477.0,2.0
+Mitsubishi,Pajero Sport,2952500.0,SUV,Diesel,Automatic,7.0,2477.0,2.0
+Bentley,Flying Spur,34167064.0,Sedan,Petrol,Automatic,4.0,3993.0,6.0
+Bentley,Flying Spur,39382083.0,Sedan,Petrol,Automatic,4.0,5998.0,6.0
+Honda,City,991000.0,Sedan,Petrol,Manual,5.0,1497.0,2.0
+Honda,City,1065900.0,Sedan,Petrol,Manual,5.0,1497.0,2.0
+Honda,City,1182000.0,Sedan,Petrol,Manual,5.0,1497.0,2.0
+Honda,City,1312000.0,Sedan,Petrol,Automatic,5.0,1497.0,2.0
+Honda,City,1111000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,City,1191000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,City,1302000.0,Sedan,Diesel,Manual,5.0,1498.0,2.0
+Honda,City,1421000.0,Sedan,Diesel,Manual,5.0,1498.0,6.0
+Honda,City,1431000.0,Sedan,Petrol,Automatic,5.0,1497.0,6.0
+Honda,City,1201000.0,Sedan,Petrol,Automatic,5.0,1497.0,2.0
+Mitsubishi,Montero,6862560.0,SUV,Diesel,Automatic,7.0,3200.0,6.0

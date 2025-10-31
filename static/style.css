@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #f1f5f9;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #0a0f2c;
+    color: white;
+    padding: 18px 40px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.nav-left h2 {
+    font-weight: 600;
+}
+
+.nav-right p, .btn-nav {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn-nav:hover {
+    text-decoration: underline;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    background: url('https://images.unsplash.com/photo-1553440569-bcc63803a83d') center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.55);
+}
+
+.form-container {
+    position: relative;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 40px;
+    border-radius: 16px;
+    width: 70%;
+    max-width: 900px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.form-container h1 {
+    font-size: 32px;
+    color: #0a0f2c;
+}
+
+.form-container p {
+    margin-bottom: 25px;
+    color: #444;
+    font-size: 16px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 15px;
+}
+
+.btn-wide {
+    grid-column: span 3;
+    padding: 14px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-wide:hover {
+    background: #0056b3;
+}
+
+/* Results Page */
+.results-container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 60px auto;
+    background: white;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.results-container h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #0a0f2c;
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+.car-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.car-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+.car-card h2 {
+    color: #007bff;
+    margin-bottom: 12px;
+}
+
+.car-card p {
+    font-size: 15px;
+    margin: 6px 0;
+    color: #333;
+}
+
+.no-result {
+    text-align: center;
+    font-size: 20px;
+    color: #555;
+}
